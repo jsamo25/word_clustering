@@ -37,7 +37,7 @@ corpus = [sentence.split() for sentence in data["text"]]
                K means model training: 300D
 ********************************************************"""
 
-model = Word2Vec(corpus,min_count=25)
+model = Word2Vec(corpus,min_count=50)
 vocabulary = model.wv.vocab
 X = model[vocabulary]
 K = 5
@@ -70,7 +70,7 @@ plt.title('k means centroids')
 for i, l in enumerate(kmeans_model.labels_):
     plt.plot(x[i], y[i], color=colors[l], marker=markers[l],ls='None')
 
-plt.scatter(components[:,0],components[:,1])
+#plt.scatter(components[:,0],components[:,1])
 plt.scatter(centers[:,0], centers[:,1], marker="x", color='r')
 
 words = list(vocabulary)
@@ -78,7 +78,6 @@ for i, word in enumerate(words):
     plt.annotate(word, xy=(components[i,0], components[i,1]))
 
 #plt.show()
-
 #TODO: print all words but label only the 10 closest to the centroid.
 """********************************************************
                  dimension reduction: 3D
@@ -91,6 +90,7 @@ components = pca.fit_transform(X)
 x = np.array(components[:,0])
 y = np.array(components[:,1])
 z = np.array(components[:,2])
+
 space_3d = np.array(list(zip(x, y, z))).reshape(len(x), 3)
 kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 
@@ -100,7 +100,12 @@ kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 
 centers = np.array(kmeans_model.cluster_centers_)
 ax = plt.axes(projection="3d")
-ax.scatter3D(components[:,0],components[:,1],components[:,2])
+colors = ["b", "g", "r", "c", "m"]
+markers = ['o', 'v', 's', "+", "D"]
+
+for i, l in enumerate(kmeans_model.labels_):
+    ax.scatter3D(x[i], y[i], z[i],color=colors[l], marker=markers[l],ls='None')
+#ax.scatter3D(components[:,0],components[:,1],components[:,2])
 ax.scatter3D(centers[:,0], centers[:,1],centers[:,2], marker="x", color='r')
 
 words = list(vocabulary)
@@ -108,7 +113,6 @@ for i, word in enumerate(words):
     ax.text(components[i,0],components[i,1],components[i,2],
             "%s" % (str(word)), size=8,zorder=1, color='k')
 #plt.show()
-
 
 """********************************************************
                        Animated 3D
