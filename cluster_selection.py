@@ -49,10 +49,10 @@ cluster_centers = kmeans_model.cluster_centers_
 ********************************************************"""
 
 pca = PCA(n_components=2)
-result = pca.fit_transform(X)
+components = pca.fit_transform(X)
 
-x = np.array(result[:,0])
-y = np.array(result[:,1])
+x = np.array(components[:,0])
+y = np.array(components[:,1])
 space_2d = np.array(list(zip(x, y))).reshape(len(x), 2)
 kmeans_model = KMeans(n_clusters=K).fit(space_2d)
 
@@ -70,14 +70,15 @@ plt.title('k means centroids')
 for i, l in enumerate(kmeans_model.labels_):
     plt.plot(x[i], y[i], color=colors[l], marker=markers[l],ls='None')
 
-plt.scatter(result[:,0],result[:,1])
+plt.scatter(components[:,0],components[:,1])
 plt.scatter(centers[:,0], centers[:,1], marker="x", color='r')
 
 words = list(vocabulary)
 for i, word in enumerate(words):
-    plt.annotate(word, xy=(result[i,0], result[i,1]))
+    plt.annotate(word, xy=(components[i,0], components[i,1]))
 
 #plt.show()
+
 #TODO: print all words but label only the 10 closest to the centroid.
 """********************************************************
                  dimension reduction: 3D
@@ -85,11 +86,11 @@ for i, word in enumerate(words):
 
 X = model[vocabulary]
 pca = PCA(n_components=3)
-result = pca.fit_transform(X)
+components = pca.fit_transform(X)
 
-x = np.array(result[:,0])
-y = np.array(result[:,1])
-z = np.array(result[:,2])
+x = np.array(components[:,0])
+y = np.array(components[:,1])
+z = np.array(components[:,2])
 space_3d = np.array(list(zip(x, y, z))).reshape(len(x), 3)
 kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 
@@ -99,17 +100,23 @@ kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 
 centers = np.array(kmeans_model.cluster_centers_)
 ax = plt.axes(projection="3d")
-ax.scatter3D(result[:,0],result[:,1],result[:,2])
+ax.scatter3D(components[:,0],components[:,1],components[:,2])
 ax.scatter3D(centers[:,0], centers[:,1],centers[:,2], marker="x", color='r')
 
 words = list(vocabulary)
 for i, word in enumerate(words):
-    ax.text(result[i,0],result[i,1],result[i,2],
+    ax.text(components[i,0],components[i,1],components[i,2],
             "%s" % (str(word)), size=8,zorder=1, color='k')
-plt.show()
+#plt.show()
+
 
 """********************************************************
-                       TBD
+                       Animated 3D
 ********************************************************"""
+
+for angle in range(0, 360):
+    ax.view_init(30, angle)
+    plt.draw()
+    plt.pause(.001)
 
 
