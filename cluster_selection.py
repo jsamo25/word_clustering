@@ -34,7 +34,7 @@ corpus = [sentence.split() for sentence in data["text"]]
 
 
 """********************************************************
-                    K means model training
+               K means model training: 300D
 ********************************************************"""
 
 model = Word2Vec(corpus,min_count=25)
@@ -45,22 +45,21 @@ kmeans_model = KMeans(n_clusters=K).fit(X)
 cluster_centers = kmeans_model.cluster_centers_
 
 """********************************************************
-                    dimension reduction 
+                 dimension reduction: 2D
 ********************************************************"""
 
 pca = PCA(n_components=2)
 result = pca.fit_transform(X)
 
-x1 = np.array(result[:,0])
-x2 = np.array(result[:,1])
-X = np.array(list(zip(x1, x2))).reshape(len(x1), 2)
+x = np.array(result[:,0])
+y = np.array(result[:,1])
+space_2d = np.array(list(zip(x, y))).reshape(len(x), 2)
+kmeans_model = KMeans(n_clusters=K).fit(space_2d)
 
 """********************************************************
-                    2-d scatter plot
+                    scatter plot: 2D
 ********************************************************"""
 
-# KMeans algorithm for 2-d
-kmeans_model = KMeans(n_clusters=K).fit(X)
 centers = np.array(kmeans_model.cluster_centers_)
 colors = ["b", "g", "r", "c", "m"]
 markers = ['o', 'v', 's', "+", "D"]
@@ -69,7 +68,7 @@ plt.plot()
 plt.title('k means centroids')
 
 for i, l in enumerate(kmeans_model.labels_):
-    plt.plot(x1[i], x2[i], color=colors[l], marker=markers[l],ls='None')
+    plt.plot(x[i], y[i], color=colors[l], marker=markers[l],ls='None')
 
 plt.scatter(result[:,0],result[:,1])
 plt.scatter(centers[:,0], centers[:,1], marker="x", color='r')
@@ -79,24 +78,25 @@ for i, word in enumerate(words):
     plt.annotate(word, xy=(result[i,0], result[i,1]))
 
 #plt.show()
-
 #TODO: print all words but label only the 10 closest to the centroid.
-
-
 """********************************************************
-                    3-d scatter plot
+                 dimension reduction: 3D
 ********************************************************"""
 
 X = model[vocabulary]
 pca = PCA(n_components=3)
 result = pca.fit_transform(X)
 
-x1 = np.array(result[:,0])
-x2 = np.array(result[:,1])
-x3 = np.array(result[:,2])
-X = np.array(list(zip(x1, x2,x3))).reshape(len(x1), 3)
+x = np.array(result[:,0])
+y = np.array(result[:,1])
+z = np.array(result[:,2])
+space_3d = np.array(list(zip(x, y, z))).reshape(len(x), 3)
+kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 
-kmeans_model = KMeans(n_clusters=K).fit(X)
+"""********************************************************
+                   scatter plot: 3D
+********************************************************"""
+
 centers = np.array(kmeans_model.cluster_centers_)
 ax = plt.axes(projection="3d")
 ax.scatter3D(result[:,0],result[:,1],result[:,2])
@@ -104,12 +104,12 @@ ax.scatter3D(centers[:,0], centers[:,1],centers[:,2], marker="x", color='r')
 
 words = list(vocabulary)
 for i, word in enumerate(words):
-    ax.text(result[i,0],result[i,1],result[i,2], "%s" % (str(word)), size=8, zorder=1, color='k')
-
+    ax.text(result[i,0],result[i,1],result[i,2],
+            "%s" % (str(word)), size=8,zorder=1, color='k')
 plt.show()
 
 """********************************************************
-                    TBD
+                       TBD
 ********************************************************"""
 
 
