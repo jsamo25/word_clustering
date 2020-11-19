@@ -1,27 +1,25 @@
-import re
 import pickle
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 
-from nltk.corpus import stopwords
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
-from gensim.models import Word2Vec
 
 """********************************************************
                import trained model
 ********************************************************"""
 
 word2vec_model = pickle.load(open("model/word2vec_model.pkl", 'rb'))
-kmeans_model = pickle.load(open("model/kmeans_model.pkl", "rb"))
 
 vocabulary = word2vec_model.wv.vocab
 X = word2vec_model[vocabulary]
 
-words = list(vocabulary)
-colors = ["b", "g", "r", "c", "m"]
-markers = ['o', 'v', 's', "+", "D"]
+K=7 #number of clusters
+sample = 50
+words = list(vocabulary)[:sample]
+colors = ["b", "g", "r", "c", "m", "y", "k",]
+markers = ["o", "v", "s", "p", "h", "+", "d"]
+
 
 """********************************************************
                  dimension reduction: 2D
@@ -30,10 +28,11 @@ markers = ['o', 'v', 's', "+", "D"]
 pca = PCA(n_components=2)
 components = pca.fit_transform(X)
 
-x = np.array(components[:,0])
-y = np.array(components[:,1])
+x = np.array(components[:,0])[:sample]
+y = np.array(components[:,1])[:sample]
+
 space_2d = np.array(list(zip(x, y))).reshape(len(x), 2)
-kmeans_model = KMeans(n_clusters=5).fit(space_2d)
+kmeans_model = KMeans(n_clusters=K).fit(space_2d)
 centers = np.array(kmeans_model.cluster_centers_)
 
 """********************************************************
@@ -50,8 +49,7 @@ for i, l in enumerate(kmeans_model.labels_):
 for i, word in enumerate(words):
     plt.annotate(word, xy=(components[i,0], components[i,1]))
 
-#plt.show()
-
+plt.show()
 """********************************************************
                  dimension reduction: 3D
 ********************************************************"""
@@ -59,12 +57,12 @@ for i, word in enumerate(words):
 pca = PCA(n_components=3)
 components = pca.fit_transform(X)
 
-x = np.array(components[:,0])
-y = np.array(components[:,1])
-z = np.array(components[:,2])
+x = np.array(components[:,0])[:sample]
+y = np.array(components[:,1])[:sample]
+z = np.array(components[:,2])[:sample]
 
 space_3d = np.array(list(zip(x, y, z))).reshape(len(x), 3)
-kmeans_model = KMeans(n_clusters=5).fit(space_3d)
+kmeans_model = KMeans(n_clusters=K).fit(space_3d)
 centers = np.array(kmeans_model.cluster_centers_)
 
 """********************************************************
@@ -80,13 +78,13 @@ for i, l in enumerate(kmeans_model.labels_):
 for i, word in enumerate(words):
     ax.text(components[i,0],components[i,1],components[i,2],
             "%s" % (str(word)), size=8,zorder=1, color='k')
-#plt.show()
+plt.show()
 
 """********************************************************
                        360 rotation
 ********************************************************"""
 
-# for angle in range(0, 360):
-#     ax.view_init(30, angle)
-#     plt.draw()
-#     plt.pause(.001)
+for angle in range(0, 360):
+    ax.view_init(30, angle)
+    plt.draw()
+    plt.pause(.001)
