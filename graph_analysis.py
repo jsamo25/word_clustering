@@ -78,7 +78,7 @@ for i, l in enumerate(kmeans_model.labels_):
 for i, word in enumerate(words):
     ax.text(components[i,0],components[i,1],components[i,2],
             "%s" % (str(word)), size=8,zorder=1, color='k')
-plt.show()
+#plt.show()
 
 """********************************************************
                        360 rotation
