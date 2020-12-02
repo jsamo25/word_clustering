@@ -14,7 +14,7 @@ word2vec_model = pickle.load(open("model/word2vec_model.pkl", 'rb'))
 vocabulary = word2vec_model.wv.vocab
 X = word2vec_model[vocabulary]
 
-K=7 #number of clusters
+K = 7 #number of clusters
 sample = 50
 words = list(vocabulary)[:sample]
 colors = ["b", "g", "r", "c", "m", "y", "k",]
@@ -25,7 +25,7 @@ markers = ["o", "v", "s", "p", "h", "+", "d"]
                  dimension reduction: 2D
 ********************************************************"""
 
-pca = PCA(n_components=2)
+pca = PCA(n_components = 2)
 components = pca.fit_transform(X)
 
 x = np.array(components[:,0])[:sample]

@@ -38,7 +38,7 @@ data["text"] = data["text"].apply(clean_sentence)
 corpus = [sentence.split() for sentence in data["text"]]
 
 """********************************************************
-                 K means model training
+                 K-means model training
 ********************************************************"""
 
 word2vec_model = Word2Vec(corpus,min_count=250)
@@ -54,14 +54,14 @@ cluster_inertia = kmeans_model.inertia_
 cluster_labels = kmeans_model.labels_
 
 """********************************************************
-                 K means model export
+                 K-means model exporting
 ********************************************************"""
 
 pickle.dump(kmeans_model, open("model/kmeans_model.pkl", 'wb'))
 pickle.dump(word2vec_model,open("model/word2vec_model.pkl", 'wb'))
 
 """********************************************************
-                 K means cluster analysis
+                 K-means cluster analysis
 ********************************************************"""
 
 words = [word[0] for word in list(vocabulary.items())]
@@ -76,6 +76,5 @@ for cluster in list(set(cluster_labels)):
     print("Words contained in cluster {}".format(cluster))
     print([word for word, label in labeled_data.items() if label == cluster])
 
-"""********************************************************
-                 
+"""********************************************************                 
 ********************************************************"""
