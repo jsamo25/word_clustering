@@ -1,6 +1,7 @@
 import re
 import pickle
 import pandas as pd
+import numpy as np
 
 from nltk.corpus import stopwords
 from gensim.models import Word2Vec
@@ -36,6 +37,9 @@ def clean_sentence(context):
 
 data["text"] = data["text"].apply(clean_sentence)
 corpus = [sentence.split() for sentence in data["text"]]
+
+def cosine(vector1, vector2):
+    return np.dot(vector1, vector2)/(np.linalg.norm(vector1) * np.linalg.norm(vector2))
 
 """********************************************************
                  K-means model training
@@ -74,7 +78,13 @@ for i,word in enumerate(words):
 for cluster in list(set(cluster_labels)):
     print()
     print("Words contained in cluster {}".format(cluster))
-    print([word for word, label in labeled_data.items() if label == cluster])
+    words_in_cluster = [word for word, label in labeled_data.items() if label == cluster]
+    print(words_in_cluster)
+    print("Closest word in cluster {}".format(cluster))
+    cosine_similarity_in_cluster = [cosine(word2vec_model[str(word)],cluster_centers(label)) for word, label in labeled_data.items() if label == cluster]
+    closest_value_to_centroid = max(cosine_similarity_in_cluster)
+    print(words_in_cluster.index(closest_value_to_centroid), "with a similarity of", closest_value_to_centroid)
+    set_trace()
 
-"""********************************************************                 
+"""********************************************************               
 ********************************************************"""
