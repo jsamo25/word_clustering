@@ -17,7 +17,7 @@ from pdb import set_trace
 #data = pd.read_csv("data/data.csv")#[:1000]
 
 """Movie reviews data"""
-data = pd.read_csv("data/IMDB Dataset.csv")
+data = pd.read_csv("data/IMDB Dataset.csv")[:1000]
 data = data.rename(columns={"review":"text"})
 
 stopwords = stopwords.words()
@@ -81,10 +81,10 @@ for cluster in list(set(cluster_labels)):
     words_in_cluster = [word for word, label in labeled_data.items() if label == cluster]
     print(words_in_cluster)
     print("Closest word in cluster {}".format(cluster))
-    cosine_similarity_in_cluster = [cosine(word2vec_model[str(word)],cluster_centers(label)) for word, label in labeled_data.items() if label == cluster]
+    cosine_similarity_in_cluster = [cosine(word2vec_model[word],cluster_centers[label]) for word, label in labeled_data.items() if label == cluster]
     closest_value_to_centroid = max(cosine_similarity_in_cluster)
-    print(words_in_cluster.index(closest_value_to_centroid), "with a similarity of", closest_value_to_centroid)
-    set_trace()
+    index = [i for i, x in enumerate(cosine_similarity_in_cluster) if x == closest_value_to_centroid]
+    print(" \"{}\" with value of {}: ".format(words_in_cluster[index[0]],closest_value_to_centroid))
 
 """********************************************************               
 ********************************************************"""
