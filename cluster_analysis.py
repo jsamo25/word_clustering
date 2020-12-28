@@ -17,7 +17,7 @@ from pdb import set_trace
 #data = pd.read_csv("data/data.csv")#[:1000]
 
 """Movie reviews data"""
-data = pd.read_csv("data/IMDB Dataset.csv")[:1000]
+data = pd.read_csv("data/IMDB Dataset.csv")
 data = data.rename(columns={"review":"text"})
 
 stopwords = stopwords.words()
@@ -45,7 +45,7 @@ def cosine(vector1, vector2):
                  K-means model training
 ********************************************************"""
 
-word2vec_model = Word2Vec(corpus,min_count=250)
+word2vec_model = Word2Vec(corpus,min_count=150)
 #word2vec = word2vec_model.wv
 vocabulary = word2vec_model.wv.vocab
 X = word2vec_model[vocabulary]
