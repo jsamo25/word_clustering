@@ -86,5 +86,4 @@ for cluster in list(set(cluster_labels)):
     index = [i for i, x in enumerate(cosine_similarity_in_cluster) if x == closest_value_to_centroid]
     print(" \"{}\" with value of {}: ".format(words_in_cluster[index[0]],closest_value_to_centroid))
 
-"""********************************************************               
-********************************************************"""
+"""*****************************************************"""
