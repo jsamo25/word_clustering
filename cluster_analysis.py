@@ -42,7 +42,7 @@ def cosine(vector1, vector2):
     return np.dot(vector1, vector2)/(np.linalg.norm(vector1) * np.linalg.norm(vector2))
 
 """********************************************************
-                 K-means model training
+                        Word2Vec
 ********************************************************"""
 
 word2vec_model = Word2Vec(corpus,min_count=150)
@@ -50,7 +50,11 @@ word2vec_model = Word2Vec(corpus,min_count=150)
 vocabulary = word2vec_model.wv.vocab
 X = word2vec_model[vocabulary]
 
-kmeans_model = KMeans(n_clusters=7)
+"""********************************************************
+                 K-means model training
+********************************************************"""
+
+kmeans_model = KMeans(n_clusters=10)
 kmeans_model.fit(X)
 
 cluster_centers = kmeans_model.cluster_centers_
@@ -58,7 +62,7 @@ cluster_inertia = kmeans_model.inertia_
 cluster_labels = kmeans_model.labels_
 
 """********************************************************
-                 K-means model exporting
+                  K-means model export
 ********************************************************"""
 
 pickle.dump(kmeans_model, open("model/kmeans_model.pkl", 'wb'))
