@@ -14,11 +14,11 @@ word2vec_model = pickle.load(open("model/word2vec_model.pkl", 'rb'))
 vocabulary = word2vec_model.wv.vocab
 X = word2vec_model[vocabulary]
 
-K = 7 #number of clusters
+K = 10 #number of clusters
 sample = 50
 words = list(vocabulary)[:sample]
-colors = ["b", "g", "r", "c", "m", "y", "k",]
-markers = ["o", "v", "s", "p", "h", "+", "d"]
+colors = ["b", "g", "r", "c", "m", "y", "k","0.3", "0.6", "0.9"]
+markers = ["o", "v", "s", "p", "h", "+", "d","1","2","3"]
 
 
 """********************************************************
