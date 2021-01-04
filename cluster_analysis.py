@@ -54,7 +54,7 @@ X = word2vec_model[vocabulary]
                  K-means model training
 ********************************************************"""
 
-kmeans_model = KMeans(n_clusters=10)
+kmeans_model = KMeans(n_clusters=100)
 kmeans_model.fit(X)
 
 cluster_centers = kmeans_model.cluster_centers_
