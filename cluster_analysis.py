@@ -3,7 +3,9 @@ import pickle
 import pandas as pd
 import numpy as np
 
+from itertools import chain
 from nltk.corpus import stopwords
+from nltk.corpus import wordnet as wn
 from gensim.models import Word2Vec
 from sklearn.cluster import KMeans
 
@@ -78,6 +80,19 @@ labeled_data = {}
 for i,word in enumerate(words):
     labeled_data[word] = cluster_labels[i]
 
+def get_synsets(word):
+    return wn.synsets(word)
+
+def get_hypernyms(word):
+    synsets = get_synsets(word)
+    hypernyms = [syn.hypernyms() for syn in synsets]
+    return list(
+        set(
+            chain.from_iterable(
+                [hyp.lemma_names() for hyp in chain.from_iterable(hypernyms)]
+            )))
+#print(get_hypernyms("aliens"))
+
 #all words in cluster 1
 for cluster in list(set(cluster_labels)):
     print()
@@ -88,6 +103,10 @@ for cluster in list(set(cluster_labels)):
     cosine_similarity_in_cluster = [cosine(word2vec_model[word],cluster_centers[label]) for word, label in labeled_data.items() if label == cluster]
     closest_value_to_centroid = max(cosine_similarity_in_cluster)
     index = [i for i, x in enumerate(cosine_similarity_in_cluster) if x == closest_value_to_centroid]
-    print(" \"{}\" with value of {}: ".format(words_in_cluster[index[0]],closest_value_to_centroid))
+    print(" \"{}\" with value of: {} ".format(words_in_cluster[index[0]],closest_value_to_centroid))
+    try:
+        print("the hypernyms of the closest word are: {}".format(get_hypernyms(words_in_cluster[index[0]])))
+    except:
+        continue
 
 """*****************************************************"""
