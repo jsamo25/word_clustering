@@ -1,0 +1,1199 @@
+Words contained in cluster 0
+['cold']
+Closest word in cluster 0
+ "cold" with value of: 1.0
+the hypernyms of the closest word are: ['temperature', 'pressor', 'vasoconstrictive', 'communicable_disease', 'vasoconstrictor', 'respiratory_disease', 'respiratory_disorder', 'respiratory_illness']
+
+Words contained in cluster 1
+['darker', 'realism', 'lighthearted', 'simplistic', 'sophisticated', 'innovative', 'quirky', 'complex', 'substance', 'genuine', 'compelling', 'effective', 'unique', 'gripping', 'approach', 'adding', 'touches', 'simple', 'narrative', 'sharp', 'engaging', 'strong', 'albeit', 'manner', 'subtle', 'balance', 'riveting', 'intriguing', 'lacked', 'melodrama', 'realistic', 'characterization', 'lacks', 'psychological', 'grim', 'relies', 'conventional', 'irony', 'satisfying', 'combine', 'blend', 'gritty', 'imaginative', 'consistent', 'coherent', 'unusual', 'flawed', 'thoughtful', 'mixture', 'bold', 'combined', 'originality', 'fitting', 'intelligent', 'complexity', 'inventive', 'storytelling', 'succeeds', 'straightforward', 'simplicity', 'combination', 'understated', 'meaningful', 'dynamic', 'devoid', 'thoughtprovoking', 'crafted', 'cleverly']
+Closest word in cluster 1
+ "straightforward" with value of: 0.8385480642318726
+the hypernyms of the closest word are: []
+
+Words contained in cluster 2
+['action', 'slow', 'pace', 'pacing', 'paced']
+Closest word in cluster 2
+ "pace" with value of: 0.9031789302825928
+the hypernyms of the closest word are: ['move', 'step', 'measure', 'regulate', 'temporal_property', 'shape', 'go', 'walk', 'rate', 'linear_unit', 'linear_measure', 'indefinite_quantity', 'influence', 'quantify', 'mold', 'locomote', 'determine', 'travel']
+
+Words contained in cluster 3
+['security', 'prison', 'guard', 'serial', 'eventually', 'victim', 'rescue', 'killers', 'responsible', 'law', 'soldier', 'rid', 'murder', 'murderous', 'officers', 'crime', 'revenge', 'identity', 'suicide', 'investigate', 'cops', 'gang', 'sent', 'hospital', 'accident', 'trial', 'murders', 'suspects', 'investigation', 'mental', 'jail', 'murderer', 'solve', 'crimes', 'court', 'criminal', 'escaped', 'corrupt', 'orders', 'doctors', 'charge', 'committed', 'wounded', 'arrested', 'medical', 'escapes', 'witnesses', 'accused', 'prisoner', 'commit']
+Closest word in cluster 3
+ "witnesses" with value of: 0.8869966864585876
+the hypernyms of the closest word are: ['experience', 'go_through', 'soul', 'speaker', 'utterer', 'perceiver', 'percipient', 'talker', 'mortal', 'see', 'person', 'signer', 'beholder', 'watch', 'signatory', 'testimony', 'verbalizer', 'verbaliser', 'someone', 'individual', 'observer', 'somebody']
+
+Words contained in cluster 4
+['find', 'believe', 'imagine', 'recall', 'tell', 'stop', 'help', 'follow', 'explain', 'stand', 'act', 'figure', 'relate', 'wait', 'compare', 'describe', 'handle', 'blame', 'bothered', 'afford', 'resist']
+Closest word in cluster 4
+ "resist" with value of: 0.8376885056495667
+the hypernyms of the closest word are: ['fight', 'escape', 'fight_down', 'oppose', 'fight_back', 'defend', 'respond', 'react', 'controvert', 'contradict', 'elude', 'disobey']
+
+Words contained in cluster 5
+['hardcore', 'formula', 'noir', 'core', 'gangster', 'cult', 'fare', 'indie', 'mindless', 'typical', 'fulci', 'giallo', 'genres', 'spaghetti', 'exploitation', 'porn', 'thrillers', 'sleaze', 'sleazy', 'porno', 'cheese', 'aussie', 'standard', 'soft', 'sports', 'parody', 'splatter', 'spoof', 'buffs', 'homage', 'teen', 'troma', 'obscure', 'softcore', 'typically', 'trashy', 'superhero']
+Closest word in cluster 5
+ "exploitation" with value of: 0.8420970439910889
+the hypernyms of the closest word are: ['utilization', 'mistreatment', 'usage', 'use', 'employment', 'utilisation', 'exercise']
+
+Words contained in cluster 6
+['sheen', 'williams', 'steve', 'phil', 'jack', 'sidekick', 'tracy', 'moore', 'jimmy', 'fred', 'cameo', 'mason', 'bill', 'ted', 'randy', 'murray', 'eddie', 'larry', 'mike', 'lou', 'danny', 'charlie', 'clark', 'steals', 'matthau', 'keaton', 'dee', 'andy', 'comedian', 'joe', 'bob', 'burt', 'reynolds', 'lemmon', 'lewis', 'billy', 'stole', 'mel', 'hart', 'burns', 'tommy', 'lloyd', 'johnny', 'dick', 'adam', 'jerry', 'mickey', 'dave', 'murphy']
+Closest word in cluster 6
+ "phil" with value of: 0.9090835452079773
+the hypernyms of the closest word are: []
+
+Words contained in cluster 7
+['fashion', 'sometimes', 'ruins', 'instead', 'resolution', 'constant', 'thrill', 'juvenile', 'aside', 'repeating', 'sappy', 'clumsy', 'frustrating', 'setup', 'scenario', 'apart', 'altogether', 'resulting', 'excessive', 'oddly', 'mundane', 'irrelevant', 'occasional', 'dry', 'strangely', 'quick', 'grotesque', 'sentimental', 'mild', 'heavy', 'method', 'frequent', 'antics', 'execution', 'hopeless', 'plausible', 'flow', 'cliche', 'results', 'sorts', 'handful', 'phony', 'andor', 'ease', 'gross', 'stretch', 'dire', 'tiresome', 'farce', 'outrageous', 'wildly', 'admittedly', 'stale', 'moreover', 'awfully', 'hokey', 'lengthy', 'overdone', 'onscreen', 'intentionally', 'involve', 'portion', 'absence', 'thankfully', 'severely', 'deliberately', 'rough', 'dreary', 'tends', 'definition', 'heavily', 'voiceover', 'overlong', 'lazy', 'slight', 'artificial', 'routine', 'senseless', 'enthusiasm', 'incompetent', 'definite', 'harmless', 'hysterical', 'merely', 'errors', 'frequently', 'result', 'sounding', 'thick', 'edgy', 'vaguely', 'smooth', 'muddled', 'proceedings', 'exercise', 'occasionally', 'superficial', 'trademark', 'occasion', 'dimension', 'carefully', 'broad', 'symbolism', 'wacky', 'loaded', 'measure', 'elaborate', 'hollow', 'childish', 'lively', 'conversations', 'distracting', 'faster']
+Closest word in cluster 7
+ "clumsy" with value of: 0.845111608505249
+the hypernyms of the closest word are: []
+
+Words contained in cluster 8
+['performed', 'opera', 'band', 'tune', 'performing', 'roll', 'singer', 'album', 'dancers', 'stage', 'classical', 'listening', 'rock', 'sings', 'pop', 'purple', 'dances', 'musicians', 'hall', 'piano', 'guitar', 'concert', 'broadway', 'metal', 'tunes', 'jazz', 'catchy', 'rap', 'blues', 'composer', 'bands', 'sung', 'streisand', 'punk']
+Closest word in cluster 8
+ "jazz" with value of: 0.9036193490028381
+the hypernyms of the closest word are: ['dance_music', 'talking', 'talk', 'play', 'pair', 'popular_music_genre', 'popular_music', 'mate', 'couple', 'spiel', 'copulate']
+
+Words contained in cluster 9
+['mainstream', 'success', 'cinema', 'artists', 'masterpiece', 'hollywood', 'vision', 'directors', 'produce', 'filmmaker', 'commentary', 'documentary', 'art', 'industry', 'artistic', 'cinematic', 'filmmaking', 'filmmakers', 'creative', 'independent']
+Closest word in cluster 9
+ "artistic" with value of: 0.8154811263084412
+the hypernyms of the closest word are: []
+
+Words contained in cluster 10
+['mst3k', 'originally', '2003', '2000', '11', 'surfing', 'titled', '2002', 'previously', 'latest', 'installment', '2004', 'festival', 'midnight', 'madefortv', 'yesterday', 'date', 'recently', 'prior', '2006', 'fourth', '1999', 'brazil', 'premiere', '1995', '2005', 'x', 'yearsbr', 'trilogy', 'june', '1968', '1972', '1st', '3000', 'march', '1996', '2nd', '1983', '2001', 'chapter', '3rd', 'april', '2007', '1980', '1971', '1979', 'muppet']
+Closest word in cluster 10
+ "2002" with value of: 0.932473361492157
+the hypernyms of the closest word are: []
+
+Words contained in cluster 11
+['average', 'interesting', 'rest', 'despite', 'nice', 'less', 'however', 'rushed', 'needed', 'although', 'part', 'though', 'unfortunately', 'potential', 'desired', 'improved', 'worthwhile', 'added', 'helped', 'fair', 'decent', 'adequate', 'disappointing', 'besides', 'material', 'overall', 'limited', 'sadly', 'surprising', 'lacking', 'technical', 'promising', 'mediocre', 'competent', 'considering', 'uneven', 'reasonable', 'suited', 'passable', 'acceptable', 'minimal', 'lackluster', 'couldve']
+Closest word in cluster 11
+ "adequate" with value of: 0.7828412055969238
+the hypernyms of the closest word are: []
+
+Words contained in cluster 12
+['set', 'surreal', 'technique', 'style', 'vivid', 'exotic', 'contrast', 'bright', 'astonishing', 'haunting', 'elegant', 'background', 'landscape', 'gothic', 'shadows', 'colorful', 'tight', 'filmed', 'captured', 'flair', 'eerie', 'narration', 'photographed', 'reminiscent', 'lit', 'breathtaking', 'choreography', 'stark', 'backdrop', 'static', 'closeups', 'atmospheric', 'accompanied', 'movements', 'landscapes', 'setting', 'moody', 'futuristic', 'images', 'montage', 'imagery', 'bleak', 'slick', 'stylish', 'colour', 'authentic', 'movement', 'effectively', 'glorious', 'composed', 'detailed', 'backgrounds', 'staged', 'striking', 'styles']
+Closest word in cluster 12
+ "landscapes" with value of: 0.8393062949180603
+the hypernyms of the closest word are: ['picture', 'stand', 'adorn', 'ornament', 'decorate', 'viewpoint', 'painting', 'embellish', 'grace', 'garden', 'beautify', 'standpoint', 'genre', 'scenery', 'point_of_view']
+
+Words contained in cluster 13
+['agenda', 'senses', 'risk', 'proof', 'contact', 'case', 'respect', 'evidence', 'challenge', 'stress', 'concern', 'justice', 'thus', 'account', 'accepted', 'odds', 'chances', 'experiment', 'target', 'pride', 'honor', 'hatred', 'strike', 'methods', 'sentence', 'support', '911', 'process', 'intention', 'cases', 'brave', 'position', 'misery', 'creation', 'chooses', 'weight', 'useful', 'laws', 'lie', 'lay', 'claim', 'ego', 'claims', 'authority', 'goal', 'rule', 'advantage', 'somehow', 'deal', 'resources', 'sole', 'conditions', 'damage', 'circumstances', 'notion', 'argument', 'speech', 'legal', 'severe', 'suffer', 'mankind', 'involvement', 'responsibility', 'demands', 'harm', 'intent', 'task', 'false', 'defense', 'response', 'failing', 'education', 'rise', 'realise', 'solution', 'punishment', 'theory', 'engage', 'intentions', 'doomed', 'duty', 'pressure', 'possibility', 'craft', 'doubts', 'noone', 'inability', 'wisdom']
+Closest word in cluster 13
+ "responsibility" with value of: 0.8266139626502991
+the hypernyms of the closest word are: ['trustworthiness', 'social_control', 'field', 'area', 'orbit', 'trustiness', 'domain', 'sphere', 'arena']
+
+Words contained in cluster 14
+['sexy', 'cute', 'sweet', 'ladies', 'lovely', 'attractive', 'blonde', 'handsome', 'lady', 'gorgeous', 'adorable', 'charming']
+Closest word in cluster 14
+ "handsome" with value of: 0.8745899796485901
+the hypernyms of the closest word are: []
+
+Words contained in cluster 15
+['death', 'kill', 'killer', 'eating', 'killing', 'evil', 'attacked', 'victims', 'alive', 'count', 'killed', 'kills', 'bodies', 'dead', 'animal', 'attack', 'ghosts', 'body', 'flesh', 'demon']
+Closest word in cluster 15
+ "demon" with value of: 0.8328773379325867
+the hypernyms of the closest word are: ['evil_spirit', 'disagreeable_person', 'actor', 'doer', 'worker', 'unpleasant_person']
+
+Words contained in cluster 16
+['even', 'complete', 'almost', 'beyond', 'mentioning', 'simply', 'painful', 'mention', 'absolutely', 'horrid', 'barely', 'bore', 'saving', 'insult', 'single', 'hardly', 'unbearable', 'blatant', 'nearly', 'total', 'redeeming', 'unwatchable', 'disaster', 'absolute', 'possibly', 'stupidity', 'tripe', 'excuse', 'practically', 'celluloid', 'abysmal', 'embarrassment', 'sheer', 'whatsoever', 'worthless', 'appalling', 'boredom', 'failure', 'pitiful', 'remotely', 'frankly', 'avoided', 'drivel', 'ruined', 'virtually', 'horrendous', 'utter', 'cringe', 'stinks', 'useless']
+Closest word in cluster 16
+ "worthless" with value of: 0.7942105531692505
+the hypernyms of the closest word are: []
+
+Words contained in cluster 17
+['ive', 'havent', 'youve', 'weve', 'hasnt']
+Closest word in cluster 17
+ "havent" with value of: 0.9193106293678284
+the hypernyms of the closest word are: []
+
+Words contained in cluster 18
+['drugs', 'become', 'encounter', 'souls', 'fallen', 'rules', 'lessons', 'encounters', 'surviving', 'upon', 'past', 'distant', 'lives', 'rage', 'gradually', 'troubles', 'growing', 'hearts', 'relatives', 'discovery', 'depression', 'teaching', 'church', 'raised', 'returning', 'crisis', 'share', 'childhood', 'peace', 'finding', 'disease', 'fate', 'incident', 'witness', 'cure', 'realizing', 'youth', 'losing', 'miserable', 'activities', 'learning', 'fears', 'persons', 'danger', 'daily', 'happily', 'teaches', 'faced', 'wishes', 'dreams', 'destiny', 'health', 'wealth', 'familys', 'secrets', 'beloved', 'seek', 'path', 'spirits', 'illness', 'families', 'valuable', 'household', 'lifestyle', 'catholic', 'wake', 'discuss', 'parties', 'birth', 'cancer', 'couples', 'folk', 'affairs', 'nightmares', 'searching', 'parent', 'alcohol', 'wives', 'taught', 'unaware', 'comfort', 'facing', 'generations', 'discovering', 'neighbors']
+Closest word in cluster 18
+ "familys" with value of: 0.8561368584632874
+the hypernyms of the closest word are: ['gangdom', 'blood_line', 'stock', 'lineage', 'parentage', 'clan', 'ancestry', 'gangland', 'relation', 'kindred', 'line', 'accumulation', 'taxon', 'unit', 'social_unit', 'taxonomic_category', 'bloodline', 'association', 'organized_crime', 'assemblage', 'line_of_descent', 'stemma', 'blood', 'collection', 'tribe', 'taxonomic_group', 'kin_group', 'pedigree', 'aggregation', 'origin', 'descent', 'relative', 'kinship_group', 'kin']
+
+Words contained in cluster 19
+['mentioned', 'done', 'taken', 'wish', 'since', 'gone', 'learned', 'saved', 'viewed', 'known', 'worked', 'noticed', 'changed', 'told', 'wondered', 'remembered', 'shown', 'experienced', 'forgotten', 'stated', 'seenbr', 'explained', 'believed', 'lived', 'imagined', 'gotten', 'existed', 'cared', 'understood', 'wished']
+Closest word in cluster 19
+ "wondered" with value of: 0.7597313523292542
+the hypernyms of the closest word are: ['ruminate', 'muse', 'query', 'mull_over', 'question', 'meditate', 'contemplate', 'respond', 'react', 'chew_over', 'ponder', 'mull', 'speculate', 'reflect', 'excogitate', 'think_over']
+
+Words contained in cluster 20
+['youll', 'youre', 'need', 'wanna', 'lets', 'please', 'unless', 'gonna', 'hate', 'gotta', 'blah']
+Closest word in cluster 20
+ "wanna" with value of: 0.8599963784217834
+the hypernyms of the closest word are: []
+
+Words contained in cluster 21
+['davis', 'leigh', 'wilson', 'luke', 'adams', 'jennifer', 'ryan', 'cooper', 'hopper', 'nicholas', 'cage', 'gary', 'grace', 'tom', 'morgan', 'salman', 'harris', 'chris', 'roberts', 'brad', 'matt', 'michelle', 'joan', 'sutherland', 'matthew', 'kevin', 'pitt', 'bullock', 'rachel', 'patrick', 'phillips', 'eric', 'justin', 'bates', 'jamie', 'meryl', 'streep', 'jon', 'charismatic', 'walken', 'amy', 'graham', 'dylan', 'sandra', 'julia', 'hudson', 'hanks', 'hoffman', 'glover', 'leslie', 'freeman', 'sinatra', 'spacey', 'dennis', 'khan', 'jeremy', 'baldwin', 'josh']
+Closest word in cluster 21
+ "adams" with value of: 0.9198839664459229
+the hypernyms of the closest word are: ['methylenedioxymethamphetamine', 'MDMA']
+
+Words contained in cluster 22
+['decade', 'today', '70s', 'early', '1990s', '90s', 'period', 'classics', '80s', 'westerns', 'western', '1940s', 'popular', 'silent', 'todays', 'modern', 'seventies', 'eighties', '1930s', '1980s', 'mid', '1960s', 'contemporary', '60s', '1970s', 'dramas', '50s', 'nowadays', 'sixties', '40s', 'musicals', '30s', '1950s', 'urban']
+Closest word in cluster 22
+ "50s" with value of: 0.932879626750946
+the hypernyms of the closest word are: ['large_integer']
+
+Words contained in cluster 23
+['comes', 'theres', 'thinks', 'says', 'except', 'knows', 'cares', 'else', 'happens', 'talking', 'loves', 'likes', 'watches']
+Closest word in cluster 23
+ "thinks" with value of: 0.7761995792388916
+the hypernyms of the closest word are: ['centre', 'alter', 'conceive', 'center', 'anticipate', 'think', 'expect', 'concentrate', 'focus', 'modify', 'rivet', 'ideate', 'cogitate', 'imagine', 'believe', 'pore', 'consider', 'advisement', 'change', 'judge', 'envisage', 'evaluate', 'pass_judgment', 'cerebrate', 'deliberation', 'weighing', 'conceive_of']
+
+Words contained in cluster 24
+['cut', 'shot', 'motion', 'fast', 'cuts', 'seat', 'forth', 'cutting']
+Closest word in cluster 24
+ "cuts" with value of: 0.8322377800941467
+the hypernyms of the closest word are: ['perforate', 'portion', 'write', 'mix', 'tape', 'slight', 'separate', 'handle', 'manage', 'function', 'editing', 'stop', 'discharge', 'create', 'rebuff', 'flip', 'treat', 'produce', 'make_do', 'revilement', 'decrease', 'do_away_with', 'extract', 'shot', 'disrupt', 'meat', 'develop', 'reap', 'drop', 'miss', 'alter', 'switch', 'go_through', 'canal', 'absence', 'interrupt', 'contumely', 'perform', 'grow', 'work', 'cope', 'move_through', 'demasculinise', 'gradation', 'stroke', 'opening', 'contend', 'grapple', 'fashion', 'do', 'pass_over', 'throw', 'appear', 'move', 'shortening', 'make', 'change', 'furrow', 'cut_off', 'record', 'hit', 'break_up', 'castrate', 'excerpt', 'get_rid_of', 'abuse', 'free', 'get_by', 'transition', 'ruffle', 'modify', 'shorten', 'transit', 'weaken', 'get', 'go_across', 'share', 'step', 'cut_down', 'emasculate', 'part', 'resolve', 'division', 'design', 'diminution', 'lesion', 'deal', 'disunite', 'insult', 'operate', 'divide', 'redaction', 'vilification', 'shift', 'do_by', 'dissolve', 'wound', 'turn', 'pass_through', 'percentage', 'penetrate', 'reduction', 'lessen', 'go', 'eliminate', 'step-down', 'be', 'harvest', 'extinguish', 'execute', 'selection', 'run', 'shuffle', 'seem', 'minify', 'look', 'excerption', 'demasculinize', 'acquire', 'strike_down', 'pass', 'pass_across', 'make_out', 'fell', 'glean']
+
+Words contained in cluster 25
+['mainly', 'due', 'fully', 'similar', 'different', 'brilliance', 'extreme', 'rarely', 'actual', 'certain', 'therefore', 'accurate', 'stronger', 'particular', 'similarly', 'entirely', 'indeed', 'perhaps', 'greatly', 'general', 'inspiration', 'amongst', 'harsh', 'significant', 'yet', 'essential', 'purely', 'clearly', 'benefit', 'majority', 'minimum', 'daring', 'degree', 'historically', 'ironic', 'scope', 'treatment', 'familiar', 'requires', 'often', 'highest', 'term', 'important', 'contain', 'solely', 'reference', 'furthermore', 'contained', 'appreciation', 'intended', 'liberal', 'evident', 'required', 'regard', 'emphasis', 'pity', 'faults', 'challenging', 'content', 'distinct', 'socalled', 'mere', 'ironically', 'aimed', 'understandable', 'appropriate', 'discussion', 'proper', 'contrary', 'specific', 'merit', 'remain', 'greater', 'defined', 'educational', 'smaller', 'hints', 'namely', 'equal', 'interpretation', 'hint', 'limits', 'purposes', 'lesser', 'firstly', 'largely', 'precisely', 'regardless', 'criticism', 'regarding', 'questionable', 'succeeded', 'humble', 'strictly', 'suitable', 'larger', 'primarily', 'extent', 'specifically', 'seldom', 'presentation', 'unfair', 'outcome', 'medium', 'creativity', 'controversial', 'testament', 'reactions', 'relevant', 'awe', 'greatness', 'properly', 'partly', 'displayed', 'spite', 'source', 'objective']
+Closest word in cluster 25
+ "controversial" with value of: 0.7749170064926147
+the hypernyms of the closest word are: []
+
+Words contained in cluster 26
+['references', 'plus', 'bits', 'lots', 'etc', 'full', 'plenty', 'packed', 'bunch', 'amount', 'mixed', 'contains', 'stunts', 'tons', 'filled', 'consists', 'endless', 'amounts', 'variety', 'loads', 'nonstop', 'explosions']
+Closest word in cluster 26
+ "tons" with value of: 0.8706774711608887
+the hypernyms of the closest word are: ['large_indefinite_quantity', 'large_indefinite_amount', 'avoirdupois_unit']
+
+Words contained in cluster 27
+['2', '3', '10', '7', '8', '12', '4', '5', '6', '9']
+Closest word in cluster 27
+ "7" with value of: 0.9304651618003845
+the hypernyms of the closest word are: ['digit', 'figure']
+
+Words contained in cluster 28
+['air', 'boat', 'helicopter', 'car', 'train', 'station', 'ship', 'fire', 'bus', 'gas', 'plane', 'crash', 'truck']
+Closest word in cluster 28
+ "gas" with value of: 0.9108020067214966
+the hypernyms of the closest word are: ['physiological_condition', 'fluid', 'physical_condition', 'overstate', 'magnify', 'state_of_matter', 'fossil_fuel', 'fuel', 'assail', 'foot_pedal', 'hyperbolize', 'attack', 'physiological_state', 'foot_lever', 'pedal', 'amplify', 'exaggerate', 'overdraw', 'hyperbolise', 'hydrocarbon', 'treadle', 'state']
+
+Words contained in cluster 29
+['money', 'thank', 'hopefully', 'ticket', 'hoping', 'hope', 'cost', 'purchase', 'lucky', 'free', 'price', 'bet', 'paying', 'buying', 'renting', 'checking', 'popcorn', 'paid', 'costs']
+Closest word in cluster 29
+ "ticket" with value of: 0.8797695636749268
+the hypernyms of the closest word are: ['label', 'listing', 'summons', 'furnish', 'list', 'render', 'book', 'commercial_instrument', 'commercial_document', 'appropriateness', 'process', 'supply', 'provide']
+
+Words contained in cluster 30
+['shakespeare', 'text', 'kings', 'hamlet', 'described', 'rings', 'king', 'stephen', 'closely', 'lord', 'jane', 'translation', 'comics', 'tarzan', 'austen', 'shakespeares', 'dickens', 'biography', 'adaptations', 'scarlett']
+Closest word in cluster 30
+ "shakespeares" with value of: 0.836979866027832
+the hypernyms of the closest word are: []
+
+Words contained in cluster 31
+['wonderful', 'masterful', 'great', 'solid', 'stunning', 'amazing', 'brilliant', 'beautiful', 'fantastic', 'excellent', 'fine', 'terrific', 'magnificent', 'memorable', 'notch', 'perfect', 'marvelous', 'impressive', 'awesome', 'remarkable', 'incredible', 'spectacular', 'superb', 'outstanding', 'fabulous', 'extraordinary', 'flawless', 'stellar', 'exceptional', 'splendid']
+Closest word in cluster 31
+ "outstanding" with value of: 0.9209997057914734
+the hypernyms of the closest word are: []
+
+Words contained in cluster 32
+['squad', 'stolen', 'club', 'expert', 'football', 'player', 'planning', 'trail', 'enter', 'fields', 'strangers', 'practice', 'bay', 'business', 'bank', 'working', 'factory', 'gangsters', 'unit', 'circus', 'estate', 'property', 'nyc', 'aid', 'robbery', 'worker', 'baseball', 'junior', 'tour', 'fired', 'team', 'jobs', 'block', 'ring', 'visiting', 'cross', 'letter', 'lands', 'perform', 'joins', 'chicago', 'kirk', 'row', 'wing', 'guests', 'department', 'tag', 'competition', 'card', 'steps', 'plan', 'field', 'tracks', 'royal', 'arrival', 'staff', 'exchange', 'scheme', 'spy', 'airport', 'passengers', 'hunt', 'invited', 'vice', 'heading', 'mayor', 'panic', 'brooklyn', 'upper', 'buddies', 'join', 'hunting', 'trained', 'wins', 'resort', 'soccer', 'oil', 'contract', 'headed', 'gold', 'trap', 'trio', 'diamond', 'asylum', 'teams', 'fortune', 'marty', 'rocket', 'letters', 'university', 'joined', 'firm', 'hunters', 'spring', 'manhattan', 'vegas', 'funeral', 'wagon', 'thugs', 'settle', 'corporate']
+Closest word in cluster 32
+ "joins" with value of: 0.8575194478034973
+the hypernyms of the closest word are: ['connection', 'set', 'link', 'connect', 'tie', 'connexion', 'link_up']
+
+Words contained in cluster 33
+['michael', 'mr', 'arthur', 'paul', 'george', 'jackson', 'john', 'henry', 'ralph', 'frank', 'craig', 'starring', 'edward', 'ray', 'anthony', 'robert', 'sam', 'kelly', 'richard', 'brooks', 'stevens', 'david', 'james', 'jr', 'jones', 'william', 'douglas', 'charles', 'raymond', 'gordon', 'barry', 'norman', 'martin', 'albert', 'sir', 'jonathan', 'harry', 'francis', 'christopher', 'andrew', 'walter', 'johnson', 'walker', 'lawrence', 'brown', 'oliver', 'curtis', 'quinn', 'donald', 'stewart', 'tony', 'smith', 'gene', 'marshall', 'joseph', 'keith', 'hamilton', 'ian', 'ford', 'simon', 'warren', 'kurt', 'grant', 'brian', 'wayne', 'stuart', 'jean', 'kennedy', 'jay', 'nelson', 'powell', 'russell', 'howard', 'cusack', 'cameron', 'ron', 'robinson', 'glenn', 'veteran', 'reed', 'blake', 'mitchell', 'dean', 'widmark', 'crawford', 'macy', 'rogers', 'scott', 'baker', 'perry', 'bridges', 'alan', 'fonda', 'andrews', 'roy', 'vincent', 'ross', 'thomas', 'caine', 'jeff', 'miller', 'anderson', 'bernard', 'taylor', 'carradine']
+Closest word in cluster 33
+ "keith" with value of: 0.9392964243888855
+the hypernyms of the closest word are: []
+
+Words contained in cluster 34
+['word', 'ignore', 'people', 'person', 'cause', 'masses', 'words', 'others', 'means', 'judge', 'politically', 'assume', 'foul', 'jesus', 'gods', 'sake', 'blacks', 'god', 'correct', 'folks', 'meant', 'ignorant', 'insulting', 'bible', 'racist', 'plague', 'stereotype', 'kinds', 'stereotypes', 'offensive', 'behave', 'fool', 'types', 'opinions', 'phrase', 'christian', 'idiots', 'react']
+Closest word in cluster 34
+ "ignorant" with value of: 0.8435980081558228
+the hypernyms of the closest word are: []
+
+Words contained in cluster 35
+['reviewers', 'read', 'positive', 'comments', 'write', 'agree', 'negative', 'imdb', 'reviews', 'critics', 'comment', 'review', 'reviewer', 'reading', 'user']
+Closest word in cluster 35
+ "user" with value of: 0.8741627931594849
+the hypernyms of the closest word are: ['someone', 'individual', 'selfish_person', 'mortal', 'soul', 'somebody', 'person']
+
+Words contained in cluster 36
+['nominated', 'oscars', 'oscar', 'academy', 'awards', 'winning', 'winner', 'nomination', 'award']
+Closest word in cluster 36
+ "nominated" with value of: 0.9490552544593811
+the hypernyms of the closest word are: ['appoint', 'found', 'institute', 'constitute', 'take', 'nominate', 'propose', 'charge', 'establish', 'choose', 'plant', 'pick_out', 'select']
+
+Words contained in cluster 37
+['given', 'give', 'giving', 'gave']
+Closest word in cluster 37
+ "give" with value of: 0.8961828947067261
+the hypernyms of the closest word are: ['fall_out', 'impose', 'direct', 'release', 'think', 'occur', 'reach', 'emit', 'create', 'accord', 'turn_over', 'produce', 'lead', 'subject', 'state', 'supply', 'deal_out', 'go_on', 'express', 'permit', 'give_up', 'cater', 'shell_out', 'estimate', 'recompense', 'distribute', 'elasticity', 'wassail', 'hap', 'offer', 'apply', 'furnish', 'show', 'let_out', 'perform', 'utilise', 'dispense', 'pass_off', 'resign', 'accept', 'visit', 'evince', 'dish_out', 'provide', 'move', 'make', 'change', 'judge', 'snap', 'mete_out', 'transfer', 'allow', 'relinquish', 'proffer', 'intercommunicate', 'utter', 'free', 'approximate', 'repair', 'say', 'cogitate', 'communicate', 'lot', 'allot', 'stretch', 'administer', 'take_place', 'inflict', 'salute', 'consent', 'deal', 'hand', 'come_about', 'toast', 'compensate', 'ply', 'submit', 'let_loose', 'go_for', 'tell', 'pass_on', 'grant', 'dole_out', 'happen', 'render', 'execute', 'utilize', 'employ', 'countenance', 'drink', 'let', 'indemnify', 'guess', 'pass', 'give', 'use', 'bring_down', 'gauge', 'cerebrate', 'parcel_out', 'pledge']
+
+Words contained in cluster 38
+['many', 'dozen', 'several', 'numerous', 'various', 'number', 'thousands', 'repeated', 'thousand', 'hundred', 'multiple', 'countless', 'hundreds', 'dozens']
+Closest word in cluster 38
+ "numerous" with value of: 0.8665434718132019
+the hypernyms of the closest word are: []
+
+Words contained in cluster 39
+['around', 'away', 'next', 'back', 'together', 'along', 'ahead', 'across']
+Closest word in cluster 39
+ "back" with value of: 0.6783108711242676
+the hypernyms of the closest word are: ['body_part', 'strengthen', 'corroborate', 'footballer', 'shift', 'switch', 'protective_cover', 'locomote', 'travel', 'affirm', 'side', 'go', 'cloth_covering', 'substantiate', 'back_up', 'football_player', 'change_over', 'okay', 'approve', 'play', 'protection', 'support', 'confirm', 'wager', 'skeletal_structure', 'position', 'move', 'place', 'bet', 'finance', 'O.K.', 'lie', 'sanction', 'sustain', 'protective_covering']
+
+Words contained in cluster 40
+['warned', 'afterwards', 'excited', 'curiosity', 'site', 'note', 'repeat', 'screening', 'already', 'hearing', 'listed', 'website', 'somewhere', 'stunned', 'judging', 'hype', 'wed', 'twice', 'critic', 'curious', 'asked', 'synopsis', 'pleasantly', 'waited', 'internet', 'page', 'pages', 'forgot', 'tonight', 'amazed', 'quote', 'purchased', 'pleased', 'online', 'poster', 'shocked', 'checked', 'commented', 'intrigued', 'agreed', 'correctly', 'description']
+Closest word in cluster 40
+ "online" with value of: 0.8462402820587158
+the hypernyms of the closest word are: []
+
+Words contained in cluster 41
+['go', 'regret', 'avoid', 'check', 'advise', 'buy', 'pay', 'suggest', 'advice', 'skip', 'warn']
+Closest word in cluster 41
+ "buy" with value of: 0.802638828754425
+the hypernyms of the closest word are: ['acquire', 'purchase', 'be', 'pay', 'get', 'believe']
+
+Words contained in cluster 42
+['parents', 'kids', 'children', 'kid', 'adult', 'teenagers', 'teens', 'child', 'teenage', 'boys', 'girls', 'adults']
+Closest word in cluster 42
+ "parents" with value of: 0.8510708808898926
+the hypernyms of the closest word are: ['organism', 'genitor', 'being']
+
+Words contained in cluster 43
+['main', 'developed', 'lack', 'problem', 'development', 'purpose', 'apparent', 'actions', 'logic', 'obvious', 'dimensional', 'none', 'minor', 'credibility', 'problems', 'secondary', 'focus', 'develop', 'motivation', 'flaw', 'basic', 'structure', 'motivations', 'motives', 'logical']
+Closest word in cluster 43
+ "motivations" with value of: 0.8743695616722107
+the hypernyms of the closest word are: ['psychological_feature', 'condition', 'deed', 'human_action', 'human_activity', 'status', 'act']
+
+Words contained in cluster 44
+['pat', 'jake', 'professor', 'owen', 'former', 'fellow', 'virginia', 'washington', 'whos', 'assigned', 'buddy', 'manager', 'journalist', 'pair', 'eve', 'rival', 'model', 'named', 'lawyer', 'prostitute', 'retired', 'private', 'rob', 'thief', 'receives', 'richards', 'louis', 'crush', 'boris', 'hired', 'assistant', 'taxi', 'coach', 'hill', 'leo', 'assassin', 'uncle', 'driver', 'custer', 'cruise', 'principal', 'bumbling', 'hitman', 'drunken', 'commander', 'nick', 'gentleman', 'sullivan', 'carl', 'psychiatrist', 'ward', 'inspector', 'bobby', 'photographer', 'duke', 'cole', 'jesse', 'kyle', 'gabriel', 'frankie', 'rick', 'colonel', 'mate', 'bruno', 'owner', 'secretary', 'widow', 'felix']
+Closest word in cluster 44
+ "secretary" with value of: 0.9098069667816162
+the hypernyms of the closest word are: ['top_dog', 'help', 'chief', 'head', 'intimate', 'assistant', 'helper', 'supporter', 'desk', 'confidant']
+
+Words contained in cluster 45
+['guards', 'control', 'power', 'prisoners', 'trade', 'machine', 'nazis', 'combat', 'soldiers', 'land', 'fought', 'weapons', 'jews', 'corruption', 'conspiracy', 'invasion', 'race', 'army', 'mission', 'workers', 'safety', 'scientists', 'training', 'citizens', 'terrorists', 'criminals', 'force', 'heroes', 'powers', 'navy', 'led', 'enemies', 'nazi', 'survivors', 'terrorist', 'government', 'destroyed', 'forces', 'defeat', 'agents', 'experiments', 'population', 'weapon', 'bomb', 'attacks', 'illegal', 'military', 'destruction', 'enemy', 'mass', 'operation', 'threat', 'civilization', 'caused', 'survival', 'rebel', 'virus', 'nuclear', 'command', 'troops', 'armed', 'hitler', 'species', 'president', 'germans', 'machines', 'tribe', 'indians', 'plant']
+Closest word in cluster 45
+ "terrorist" with value of: 0.9123439192771912
+the hypernyms of the closest word are: ['radical']
+
+Words contained in cluster 46
+['complaint', 'himbr', 'inbr', 'filmbr', 'plotbr', 'waybr', 'withbr', 'herbr', 'timesbr', 'characterbr', 'thembr', 'wellbr', 'worldbr', 'etcbr', 'screenbr', 'lifebr', 'scenebr', 'storybr', 'scenesbr', 'peoplebr', 'charactersbr']
+Closest word in cluster 46
+ "storybr" with value of: 0.8133134245872498
+the hypernyms of the closest word are: []
+
+Words contained in cluster 47
+['sex', 'female', 'naked', 'women', 'male', 'nude', 'rape', 'lesbian', 'sexual', 'gay']
+Closest word in cluster 47
+ "lesbian" with value of: 0.8651241064071655
+the hypernyms of the closest word are: ['gay', 'homophile', 'homo', 'Greek', 'homosexual', 'Hellene']
+
+Words contained in cluster 48
+['sitting', 'eyes', 'leave', 'keep', 'hear', 'disbelief', 'mind', 'brain', 'open', 'alone', 'button', 'paint', 'listen', 'shut', 'sleep', 'jump', 'awake', 'swear', 'finish', 'shake', 'rolling', 'scare', 'breath', 'tear', 'spare', 'bear', 'switch', 'stomach', 'endure', 'grab']
+Closest word in cluster 48
+ "shut" with value of: 0.7988294959068298
+the hypernyms of the closest word are: ['prevent', 'keep', 'turn', 'change_state']
+
+Words contained in cluster 49
+['dialogue', 'lines', 'script', 'dialog']
+Closest word in cluster 49
+ "dialogue" with value of: 0.9364378452301025
+the hypernyms of the closest word are: ['talking', 'talk', 'literary_work', 'give-and-take', 'book', 'script', 'literary_composition', 'playscript', 'word', 'discussion']
+
+Words contained in cluster 50
+['boy', 'mom', 'brother', 'woman', 'daughter', 'dad', 'sister', 'girl', 'father', 'mother', 'girlfriend', 'friend', 'husband', 'wife', 'boyfriend']
+Closest word in cluster 50
+ "daughter" with value of: 0.9254429340362549
+the hypernyms of the closest word are: ['female_offspring']
+
+Words contained in cluster 51
+['four', 'three', 'couple', 'two']
+Closest word in cluster 51
+ "three" with value of: 0.9506292939186096
+the hypernyms of the closest word are: ['digit', 'figure', 'playing_card']
+
+Words contained in cluster 52
+['comedies', 'films', 'movies']
+Closest word in cluster 52
+ "movies" with value of: 0.9150646328926086
+the hypernyms of the closest word are: ['show', 'product', 'production']
+
+Words contained in cluster 53
+['right', 'exactly', 'thing', 'say', 'really', 'movie', 'ok', 'going', 'like', 'good', 'sure', 'least', 'hell', 'thats', 'better', 'much', 'maybe', 'actually', 'yes', 'saying', 'supposed', 'suppose', 'wrong', 'honestly', 'heck', 'guess', 'lot', 'damn', 'anyway', 'okay', 'stuff', 'kinda', 'aint', 'sorry', 'yeah', 'cool', 'oh', 'mean', 'sucked', 'said', 'hey', 'alright', 'wow', 'suck']
+Closest word in cluster 53
+ "ok" with value of: 0.8009440302848816
+the hypernyms of the closest word are: ['countenance', 'imprimatur', 'indorsement', 'sanction', 'endorsement', 'warrant']
+
+Words contained in cluster 54
+['mebr', 'br', 'timebr', 'itbr', 'goodbr', 'summary', 'endbr', 'bottom', 'moviebr', 'therebr', 'spoilersbr', 'showbr', 'againbr', 'bebr', 'onebr', 'thisbr', 'nowbr', 'isbr', 'heres', 'badbr', 'f', 'ps', 'outbr', 'upbr', 'notbr', 'onbr', 'toobr', 'aboutbr', 'wasbr', 'thatbr', 'tobr', 'youbr', 'sum', 'allbr', 'moviesbr', 'warning', 'herebr', 'watchbr', 'muchbr', 'workbr', 'morebr', 'betterbr', 'eitherbr', 'funnybr']
+Closest word in cluster 54
+ "onebr" with value of: 0.8752232193946838
+the hypernyms of the closest word are: []
+
+Words contained in cluster 55
+['city', 'middle', 'place', 'island', 'trip', 'farm', 'isolated', 'living', 'london', 'area', 'woods', 'california', 'village', 'nearby', 'streets', 'haunted', 'desert', 'outside', 'angeles', 'tourist', 'towns', 'beach', 'castle', 'travels', 'remote', 'underground', 'ancient', 'arrive', 'treasure', 'river', 'paris', 'jungle', 'road', 'traveling', 'winter', 'rural', 'stranded', 'travel', 'abandoned', 'coast', 'mexico', 'san', 'francisco', 'museum', 'cabin', 'countryside', 'mansion', 'wax', 'florida', 'ireland', 'mountains']
+Closest word in cluster 55
+ "coast" with value of: 0.8788221478462219
+the hypernyms of the closest word are: ['panorama', 'view', 'side', 'vista', 'move', 'incline', 'movement', 'glide', 'aspect', 'scene', 'motion', 'shore', 'prospect', 'slope']
+
+Words contained in cluster 56
+['everything', 'something', 'everybody', 'someone', 'anyone', 'anybody', 'anything', 'anywhere', 'nothing', 'everyone', 'nobody', 'somebody']
+Closest word in cluster 56
+ "anybody" with value of: 0.8247751593589783
+the hypernyms of the closest word are: []
+
+Words contained in cluster 57
+['oz', 'shows', 'superman', 'soap', 'new', 'star', 'wars', 'childrens', 'host', 'news', 'program', 'zone', 'franchise', 'brand', 'trek', 'sitcom', 'regular', 'adventures', 'league', 'mini', 'fox', 'pilot', 'twilight', 'radio', 'columbo', 'lone', 'simpsons', 'ranger', 'abc']
+Closest word in cluster 57
+ "oz" with value of: 0.7498412728309631
+the hypernyms of the closest word are: []
+
+Words contained in cluster 58
+['audiences', 'view', 'subject', 'political', 'message', 'propaganda', 'issues', 'topic', 'americans', 'views', 'social', 'themes', 'religious', 'statement', 'society', 'context', 'historical', 'politics', 'religion', 'cultural', 'lesson', 'racism', 'issue', 'culture']
+Closest word in cluster 58
+ "politics" with value of: 0.8842389583587646
+the hypernyms of the closest word are: ['view', 'profession', 'social_relation', 'thought', 'opinion', 'activity', 'sentiment', 'affairs', 'social_science', 'persuasion']
+
+Words contained in cluster 59
+['witty', 'humour', 'oneliners', 'satire', 'humor', 'moments', 'slapstick', 'wit', 'comedic', 'relief', 'comic', 'gags', 'humorous', 'timing']
+Closest word in cluster 59
+ "humour" with value of: 0.8362745642662048
+the hypernyms of the closest word are: ['subject_matter', 'fun', 'gratify', 'indulge', 'pander', 'feeling', 'message', 'body_substance', 'playfulness', 'quality', 'substance', 'content']
+
+Words contained in cluster 60
+['violence', 'graphic', 'nudity', 'gory', 'blood', 'gore', 'bloody', 'gratuitous']
+Closest word in cluster 60
+ "gore" with value of: 0.8799232840538025
+the hypernyms of the closest word are: ['murder', 'slaying', 'cut', 'tailor', 'piece_of_material', 'execution', 'thrust', 'piece_of_cloth', 'pierce', 'blood']
+
+Words contained in cluster 61
+['meet', 'mothers', 'soon', 'meanwhile', 'grandfather', 'tells', 'fathers', 'baby', 'sees', 'marry', 'mistress', 'learns', 'wealthy', 'nurse', 'married', 'marriage', 'affair', 'sons', 'daughters', 'meets', 'kidnapped', 'elderly', 'pregnant', 'priest', 'finds', 'abusive', 'discovers', 'visit', 'wedding', 'meeting', 'arrives', 'believes', 'jealous', 'calls', 'cousin', 'wifes', 'visits', 'cheating', 'secretly', 'dying', 'murdered', 'asks', 'birthday', 'realizes', 'lover', 'neighbor', 'aunt', 'sisters', 'raped', 'husbands']
+Closest word in cluster 61
+ "abusive" with value of: 0.8896288275718689
+the hypernyms of the closest word are: []
+
+Words contained in cluster 62
+['hooked', 'sold', 'jumped', 'dropped', 'continued', 'followed', 'lost', 'died', 'return', 'opened', 'coming', 'finally', 'promised', 'caught', 'memory', 'waiting', 'following', 'hit', 'held', 'began', 'discovered', 'broke', 'shortly', 'returned', 'reached', 'immediately', 'moved', 'arrived', 'became', 'ordered', 'forever', 'starting', 'remained', 'passed', 'strikes', 'initial', 'blew', 'disappeared', 'passing', 'lasted', 'rolled', 'survived', 'reunion']
+Closest word in cluster 62
+ "returned" with value of: 0.8083615303039551
+the hypernyms of the closest word are: ['return', 'elect', 'submit', 'change_owners', 'change_by_reversal', 'turn', 'reappear', 'pass_on', 'reverse', 'locomote', 'refer', 'reply', 'travel', 'transport', 'put_across', 'go', 'respond', 'communicate', 'change_hands', 'create', 'reciprocate', 'produce', 'take', 'subject', 'bring', 'carry', 'convey', 'pay', 're-emerge', 'move', 'answer', 'make', 'pass', 'give', 'pass_along', 'denote']
+
+Words contained in cluster 63
+['kane', 'harvey', 'carpenter', 'carpenters', 'w', 'clint', 'eastwood', 'willis', 'lugosi', 'robin', 'max', 'campbell', 'knight', 'lee', 'spike', 'doug', 'carrey', 'villain', 'vehicle', 'connery', 'chuck', 'karloff', 'frost', 'tim', 'steven', 'burton', 'bruce', 'hood', 'g', 'bronson', 'norris', 'jason', 'myers', 'crystal', 'arnold', 'lynch', 'roger', 'holmes', 'jeffrey', 'wannabe', 'hunter', 'sandler', 'lucas', 'angel', 'niro', 'nicholson', 'austin', 'spielberg']
+Closest word in cluster 63
+ "campbell" with value of: 0.8752123117446899
+the hypernyms of the closest word are: []
+
+Words contained in cluster 64
+['disappears', 'closet', 'hero', 'mad', 'nervous', 'crazy', 'root', 'drunk', 'naturally', 'hates', 'mafia', 'virgin', 'tough', 'normal', 'acts', 'retarded', 'trouble', 'psychic', 'possessed', 'supposedly', 'ruthless', 'pretending', 'dentist', 'winds', 'blind', 'invisible', 'idiot', 'talks', 'psychotic', 'sinister', 'freak', 'calm', 'rude', 'ex', 'mute', 'homeless', 'spoiled', 'vengeance', 'cruel', 'insane', 'arrogant', 'greedy', 'sadistic', 'tortured', 'threatening', 'clueless', 'beating', 'jerk', 'suspicious', 'loser', 'vicious', 'nerd', 'saves', 'satan', 'dating', 'menacing', 'slave', 'maniac', 'petty', 'brutally', 'stealing', 'fed', 'deranged', 'twin']
+Closest word in cluster 64
+ "psychotic" with value of: 0.8409702777862549
+the hypernyms of the closest word are: ['sick_person', 'sufferer', 'diseased_person']
+
+Words contained in cluster 65
+['things', 'facts', 'truth', 'details', 'events', 'event', 'questions', 'answers', 'information']
+Closest word in cluster 65
+ "facts" with value of: 0.8221693634986877
+the hypernyms of the closest word are: ['realism', 'realness', 'information', 'concept', 'conception', 'reality', 'info', 'construct']
+
+Words contained in cluster 66
+['stars', 'players', 'names', 'famous', 'exception', 'top', 'appearance', 'addition', 'among', 'including', 'wellknown', 'highlight', 'appeared', 'includes', 'include', 'notably', 'brothers', 'highlights', 'cameos', 'featuring', 'features', 'notable', 'exceptions', 'guest', 'warner', 'stooges', 'laurel', 'hardy', 'featured', 'weakest', 'favorites', 'shorts', 'performers', 'starred', 'appearances', 'comedians']
+Closest word in cluster 66
+ "notable" with value of: 0.8073561787605286
+the hypernyms of the closest word are: ['famous_person', 'celebrity']
+
+Words contained in cluster 67
+['use', 'production', 'filming', 'techniques', 'cheap', 'stock', 'using', 'used', 'effect', 'cameras', 'expensive', 'digital', 'technology', 'equipment', 'costume', 'extra', 'cg', 'amateur', 'props', 'stunt', '3d', 'designed']
+Closest word in cluster 67
+ "digital" with value of: 0.7972788214683533
+the hypernyms of the closest word are: []
+
+Words contained in cluster 68
+['scenes', 'scene', 'sequences', 'sequence']
+Closest word in cluster 68
+ "scenes" with value of: 0.8959214687347412
+the hypernyms of the closest word are: ['photograph', 'pic', 'graphic_art', 'situation', 'area', 'exposure', 'stage_set', 'bad_temper', 'state_of_affairs', 'ill_temper', 'country', 'visual_image', 'environs', 'surroundings', 'set', 'surround', 'picture', 'environment', 'dramatic_work', 'dramatic_composition', 'visual_percept', 'photo', 'incident']
+
+Words contained in cluster 69
+['favorite', 'favourite']
+Closest word in cluster 69
+ "favorite" with value of: 0.9804263710975647
+the hypernyms of the closest word are: ['contender', 'selection', 'competitor', 'pick', 'challenger', 'lover', 'competition', 'rival', 'choice']
+
+Words contained in cluster 70
+['focuses', 'concerning', 'telling', 'connected', 'drawn', 'sudden', 'centers', 'potentially', 'within', 'unfolds', 'unlikely', 'central', 'raises', 'parallel', 'reallife', 'suffers', 'leads', 'exact', 'introduced', 'reveal', 'revealing', 'seemingly', 'protagonists', 'explaining', 'serves', 'changes', 'revolves', 'reveals', 'clues', 'interaction', 'surrounding', 'follows', 'connection', 'revealed', 'introduces', 'primary', 'separate', 'involves', 'driven', 'toward', 'focusing', 'introduction', 'device', 'complicated', 'subsequent', 'flashbacks', 'essentially', 'focused', 'concerns', 'develops', 'subplot', 'occur', 'crucial', 'introduce', 'unfold', 'heroic', 'occurs', 'serve', 'progresses', 'inevitable', 'ties', 'vague', 'developing', 'progress', 'revelation', 'key', 'relation']
+Closest word in cluster 70
+ "develops" with value of: 0.8521314859390259
+the hypernyms of the closest word are: ['theorize', 'fall_out', 'alter', 'hap', 'bring_forth', 'expand', 'hypothesise', 'hypothecate', 'occur', 'happen', 'grow', 'modify', 'create_by_mental_act', 'elaborate', 'theorise', 'instruct', 'pass_off', 'speculate', 'become', 'hypothesize', 'better', 'create_mentally', 'create', 'play', 'rarify', 'superimpose', 'lay_over', 'conjecture', 'teach', 'ameliorate', 'superpose', 'refine', 'meliorate', 'complicate', 'learn', 'take_place', 'change', 'improve', 'pass', 'go_on', 'generate', 'come_about', 'amend', 'suppose']
+
+Words contained in cluster 71
+['home', 'class', 'friends', 'family', 'york', 'school', 'town', 'house', 'local', 'group', 'students', 'vacation', 'college', 'community', 'party', 'student', 'teacher', 'neighborhood', 'teachers']
+Closest word in cluster 71
+ "college" with value of: 0.8206662535667419
+the hypernyms of the closest word are: ['body', 'complex', 'educational_institution', 'building_complex']
+
+Words contained in cluster 72
+['seems', 'looks', 'feels', 'seemed']
+Closest word in cluster 72
+ "feels" with value of: 0.8616876602172852
+the hypernyms of the closest word are: ['stimulation', 'experience', 'go_through', 'conceive', 'conclude', 'perceive', 'think', 'knowingness', 'seek', 'look_for', 'atmosphere', 'touch', 'arousal', 'be', 'ambience', 'see', 'believe', 'reason', 'seem', 'cognisance', 'consider', 'look', 'awareness', 'reason_out', 'foreplay', 'appear', 'search', 'find', 'cognizance', 'regain', 'ambiance', 'comprehend', 'property', 'consciousness']
+
+Words contained in cluster 73
+['values', 'quality', 'aspect', 'value', 'entertainment', 'level', 'standards', 'qualities', 'factor']
+Closest word in cluster 73
+ "value" with value of: 0.8424092531204224
+the hypernyms of the closest word are: ['assess', 'amount', 'appraise', 'measure', 'continuance', 'see', 'ideal', 'view', 'numerical_quantity', 'set', 'duration', 'consider', 'regard', 'valuate', 'quantity', 'judge', 'evaluate', 'reckon', 'color_property', 'pass_judgment', 'value', 'worth', 'determine']
+
+Words contained in cluster 74
+['africa', 'north', 'south', 'america', 'west', 'park', 'united', 'east']
+Closest word in cluster 74
+ "north" with value of: 0.9287102818489075
+the hypernyms of the closest word are: ['location', 'cardinal_compass_point', 'direction']
+
+Words contained in cluster 75
+['nasty', 'odd', 'erotic', 'bizarre', 'final', 'towards', 'weird', 'gruesome', 'disturbing', 'explicit', 'tame', 'killings', 'creepy', 'shock', 'neat', 'deaths', 'spooky', 'brief', 'torture', 'strange', 'shocking', 'disgusting', 'brutal', 'random', 'twisted', 'violent', 'involving', 'chilling', 'flashback', 'frightening', 'supernatural', 'terrifying', 'unsettling', 'horrific', 'unpleasant', 'climactic', 'horrifying']
+Closest word in cluster 75
+ "gruesome" with value of: 0.8385318517684937
+the hypernyms of the closest word are: []
+
+Words contained in cluster 76
+['night', 'week', 'day', 'morning']
+Closest word in cluster 76
+ "morning" with value of: 0.9053122401237488
+the hypernyms of the closest word are: ['word_of_farewell', 'period', 'time_period', 'greeting', 'period_of_time', 'salutation', 'start', 'time_of_day', 'hour', 'farewell']
+
+Words contained in cluster 77
+['shots', 'camera', 'lighting', 'angles']
+Closest word in cluster 77
+ "angles" with value of: 0.9105545282363892
+the hypernyms of the closest word are: ['stand', 'bias', 'move', 'fish', 'predetermine', 'space', 'viewpoint', 'go', 'seek', 'standpoint', 'flex', 'bend', 'locomote', 'point_of_view', 'search', 'European', 'travel', 'look_for']
+
+Words contained in cluster 78
+['hot', 'wears', 'black', 'white', 'skin', 'wearing', 'fake', 'outfit', 'wear', 'dressed', 'dresses', 'suits', 'chick', 'breasts', 'candy', 'topless', 'ugly', 'mask', 'fat', 'dude', 'dress', 'suit', 'clothes', 'chicks', 'snake', 'hair', 'blond', 'rubber']
+Closest word in cluster 78
+ "wearing" with value of: 0.8992251753807068
+the hypernyms of the closest word are: ['have', 'endure', 'dress', 'geological_process', 'deed', 'feature', 'human_action', 'dilapidate', 'last', 'deteriorate', 'decay', 'crumble', 'indispose', 'human_activity', 'get_dressed', 'geologic_process', 'act']
+
+Words contained in cluster 79
+['fiction', 'science', 'pulp']
+Closest word in cluster 79
+ "science" with value of: 0.922111451625824
+the hypernyms of the closest word are: ['subject_area', 'study', 'discipline', 'power', 'ability', 'bailiwick', 'subject_field', 'subject', 'field_of_study', 'field']
+
+Words contained in cluster 80
+['secret', 'scientist', 'dr', 'agent', 'cop', 'police', 'detective', 'doctor', 'fbi', 'leader', 'boss', 'mob', 'reporter', 'captain', 'officer', 'cia', 'chief', 'partner', 'sheriff']
+Closest word in cluster 80
+ "agent" with value of: 0.8810895085334778
+the hypernyms of the closest word are: ['cause', 'semantic_role', 'businessperson', 'bourgeois', 'participant_role', 'functionary', 'causal_agent', 'official', 'representative', 'substance', 'causal_agency']
+
+Words contained in cluster 81
+['pulls', 'goes', 'nowhere', 'running', 'beginning', 'takes', 'start', 'leaving', 'turns', 'halfway', 'thrown', 'starts', 'downhill', 'loses', 'jumps', 'moves', 'ends', 'drag', 'stays', 'leaves', 'drags', 'keeps', 'quickly', 'tied', 'near', 'slowly', 'blown', 'throws', 'loose', 'dragged', 'stops', 'picks']
+Closest word in cluster 81
+ "jumps" with value of: 0.8268169164657593
+the hypernyms of the closest word are: ['reflex', 'overlook', 'drop', 'increase', 'miss', 'shift', 'switch', 'alter', 'reflex_action', 'unconditioned_reflex', 'plunge', 'inborn_reflex', 'locomote', 'pretermit', 'innate_reflex', 'set_on', 'travel', 'rise', 'transition', 'go', 'plunk', 'assail', 'vary', 'actuation', 'reflex_response', 'mount', 'seem', 'start_up', 'attack', 'propulsion', 'participate', 'look', 'physiological_reaction', 'start', 'omit', 'leave_out', 'appear', 'climb', 'overleap', 'move', 'change', 'neglect', 'descent', 'assault', 'enter', 'wax', 'instinctive_reflex', 'dive']
+
+Words contained in cluster 82
+['recommend', 'recommended']
+Closest word in cluster 82
+ "recommend" with value of: 0.9708234071731567
+the hypernyms of the closest word are: ['change', 'modify', 'alter', 'advise', 'propose', 'suggest', 'praise']
+
+Words contained in cluster 83
+['got', 'get', 'gets', 'getting']
+Closest word in cluster 83
+ "getting" with value of: 0.8605442047119141
+the hypernyms of the closest word are: ['sicken', 'vex', 'have', 'discombobulate', 'catch', 'set_up', 'rile', 'attract', 'create', 'draw_in', 'effect', 'get_to', 'rag', 'purchase', 'transmit', 'confound', 'stir', 'alter', 'pull_in', 'transport', 'mean', 'fox', 'understand', 'score', 'leave', 'rack_up', 'throw', 'buy', 'bother', 'channel', 'nark', 'ache', 'bedevil', 'receive', 'make', 'change', 'fuddle', 'hit', 'clutch', 'act', 'hurt', 'transfer', 'chafe', 'get_at', 'intercommunicate', 'nettle', 'modify', 'hear', 'channelize', 'get_back', 'change_state', 'communicate', 'get', 'seize', 'gravel', 'human_action', 'pull', 'go_forth', 'destroy', 'intend', 'ruin', 'irritate', 'reproduce', 'get_even', 'befuddle', 'draw', 'experience', 'turn', 'undergo', 'suffer', 'deed', 'touch', 'confuse', 'devil', 'tally', 'annoy', 'effectuate', 'prehend', 'human_activity', 'come_down', 'acquire', 'go_away', 'channelise']
+
+Words contained in cluster 84
+['hours', 'half', 'hour']
+Closest word in cluster 84
+ "hour" with value of: 0.9385665059089661
+the hypernyms of the closest word are: ['period', 'time_period', 'time', 'clock_time', 'unit_of_time', 'period_of_time', 'time_unit', 'distance']
+
+Words contained in cluster 85
+['roles', 'character', 'actor', 'actress', 'role']
+Closest word in cluster 85
+ "role" with value of: 0.9110187888145447
+the hypernyms of the closest word are: ['portrayal', 'characterization', 'personation', 'utility', 'activity', 'usefulness', 'duty', 'enactment']
+
+Words contained in cluster 86
+['match', 'sword', 'vs', 'master', 'hong', 'kong', 'martial', 'arts', 'villains', 'jackie', 'super', 'bond', 'mario', 'kung', 'battles', 'seagal', 'chan', 'fighter', 'damme', 'jet', 'dragon', 'ninja']
+Closest word in cluster 86
+ "jet" with value of: 0.8218492865562439
+the hypernyms of the closest word are: ['fly', 'atmospheric_electricity', 'wood_coal', 'flowing', 'aeroplane', 'plane', 'Ketalar', 'pilot', 'airplane', 'discharge', 'run', 'ketamine_hydrochloride', 'course', 'flow', 'outpouring', 'aviate', 'feed', 'brown_coal', 'lignite', 'ketamine']
+
+Words contained in cluster 87
+['decide', 'live', 'bring', 'destroy', 'save', 'grow', 'survive', 'prove', 'desperate', 'hide', 'steal', 'protect', 'learn', 'prevent', 'lose', 'raise', 'reach', 'choose', 'continue', 'send', 'win', 'escape', 'teach', 'accept', 'sell', 'gain', 'overcome', 'desperately', 'defend']
+Closest word in cluster 87
+ "survive" with value of: 0.8260200619697571
+the hypernyms of the closest word are: ['get_the_better_of', 'overcome', 'defeat']
+
+Words contained in cluster 88
+['charm', 'skills', 'facial', 'expressions', 'depth', 'strength', 'ability', 'tremendous', 'skill', 'capable', 'presence', 'displays', 'natural', 'energy', 'physical', 'intensity', 'personality', 'range', 'charisma', 'subtlety', 'emotion', 'intelligence', 'abilities', 'expression', 'raw', 'display', 'warmth', 'considerable']
+Closest word in cluster 88
+ "charisma" with value of: 0.8122504949569702
+the hypernyms of the closest word are: ['interestingness', 'interest', 'attractiveness']
+
+Words contained in cluster 89
+['touch', 'truly', 'sincere', 'delight', 'fresh', 'dark', 'moving', 'fascinating', 'inspiring', 'quiet', 'pure', 'refreshing', 'beauty', 'delightful', 'rare', 'intense', 'touching', 'gentle', 'depressing', 'warm', 'light', 'powerful', 'poignant', 'unforgettable', 'joy', 'captivating', 'heartbreaking', 'poetic', 'tender', 'provoking', 'pleasant', 'heartwarming', 'uplifting']
+Closest word in cluster 89
+ "poignant" with value of: 0.8723101019859314
+the hypernyms of the closest word are: []
+
+Words contained in cluster 90
+['watchable', 'fun', 'dated', 'funny', 'entertaining', 'cheesy', 'unintentional', 'scary', 'unintentionally', 'amusing', 'laughs', 'hilarious', 'enjoyable', 'clever', 'silly', 'crude', 'corny', 'funnier', 'campy']
+Closest word in cluster 90
+ "amusing" with value of: 0.8030245304107666
+the hypernyms of the closest word are: ['jolly_up', 'jolly_along', 'entertain', 'cheer', 'cheer_up']
+
+Words contained in cluster 91
+['turned', 'thought', 'came', 'sat', 'took', 'started', 'kept', 'showed', 'hated', 'left', 'went', 'figured', 'ended', 'ran', 'knew', 'found', 'picked', 'stopped', 'finished', 'hadnt', 'walked', 'stayed', 'realized', 'missed']
+Closest word in cluster 91
+ "walked" with value of: 0.7965933084487915
+the hypernyms of the closest word are: ['associate', 'comport', 'track', 'locomote', 'travel', 'cut_through', 'cut_across', 'get_across', 'compel', 'go', 'obligate', 'score', 'rack_up', 'tally', 'play', 'pass_over', 'pace', 'move', 'cross', 'behave', 'accompany', 'cover', 'get_over', 'hit', 'traverse', 'consociate', 'oblige']
+
+Words contained in cluster 92
+['likable', 'believable', 'annoying', 'lovable', 'usual', 'stereotypical', 'overthetop', 'delivered', 'wooden', 'obnoxious', 'convincing', 'miscast', 'appealing', 'irritating', 'comical', 'bland', 'smart', 'cardboard', 'hilariously', 'overacting', 'awkward', 'delivering', 'delivery', 'stiff', 'goofy', 'credible', 'exaggerated', 'endearing', 'embarrassing', 'inappropriate', 'onedimensional']
+Closest word in cluster 92
+ "irritating" with value of: 0.8403802514076233
+the hypernyms of the closest word are: ['displease', 'aggravate', 'stimulate', 'excite', 'exasperate', 'worsen', 'exacerbate']
+
+Words contained in cluster 93
+['luck', 'staying', 'stay', 'shoot', 'pass', 'turn', 'straight', 'run', 'pick', 'walk', 'ride', 'putting', 'throw', 'wreck', 'beat', 'eat', 'stick', 'drive', 'drink', 'burn', 'catch', 'tie', 'step', 'break', 'blow', 'move', 'hang', 'sneak', 'threw', 'push', 'fly', 'fix']
+Closest word in cluster 93
+ "drive" with value of: 0.8225758671760559
+the hypernyms of the closest word are: ['return', 'physiological_condition', 'transfer', 'operate', 'journeying', 'trait', 'fight', 'control', 'physical_condition', 'struggle', 'transferral', 'locomote', 'track', 'travel', 'impel', 'transport', 'cut_through', 'mean', 'get_across', 'cut_across', 'dig', 'power', 'hunt', 'go', 'push', 'mechanism', 'work', 'hunt_down', 'track_down', 'transportation', 'swing', 'journey', 'golf_stroke', 'device', 'force', 'actuation', 'hollow', 'run', 'golf_shot', 'propel', 'excavate', 'pass_over', 'do_work', 'drive', 'propulsion', 'physiological_state', 'conveyance', 'thrust', 'throw', 'intend', 'route', 'displace', 'move', 'squeeze', 'cross', 'make', 'coerce', 'pressure', 'cover', 'get_over', 'hit', 'road', 'hale', 'traverse', 'venture']
+
+Words contained in cluster 94
+['couldnt', 'cant', 'cannot']
+Closest word in cluster 94
+ "cant" with value of: 0.9521443247795105
+the hypernyms of the closest word are: ['bunk', 'side', 'talk', 'nonsense', 'talking', 'incline', 'edge', 'move', 'non-standard_speech', 'nonsensicality', 'meaninglessness', 'hokum', 'slope']
+
+Words contained in cluster 95
+['experience', 'time', 'us', 'long', 'imagination', 'audience', 'interest', 'short', 'viewing', 'detail', 'impact', 'patience', 'viewer', 'longer', 'guessing', 'promise', 'viewers', 'length', 'attention', 'viewings', 'enjoyment', 'frame']
+Closest word in cluster 95
+ "patience" with value of: 0.7561331391334534
+the hypernyms of the closest word are: ['cards', 'good_nature', 'card_game']
+
+Words contained in cluster 96
+['woody', 'career', 'bette', 'shirley', 'wood', 'artist', 'rex', 'pacino', 'legendary', 'welles', 'alexander', 'thanks', 'proves', 'showcase', 'directorial', 'mark', 'aging', 'stone', 'professional', 'davies', 'flynn', 'credited', 'genius', 'ambitious', 'waters', 'joel', 'turner', 'kenneth', 'terry', 'chaplin', 'cox', 'bergman', 'writerdirector', 'altman', 'debut', 'cinematographer', 'writes', 'leonard', 'recognized', 'wise', 'shines', 'perfection', 'persona', 'timothy', 'performer', 'directs', 'fame', 'performs', 'buck', 'claude', 'derek', 'neil', 'ken', 'stanley', 'costar', 'judy', 'buster', 'garbo', 'franco', 'harold', 'appropriately', 'standout', 'branagh', 'duo', 'falk', 'likewise', 'brando', 'gifted', 'penn', 'sidney', 'colin', 'alongside', 'robbins', 'executive', 'griffith', 'cary', 'stan', 'gus', 'shine', 'madonna', 'lincoln', 'morris', 'jordan', 'cassavetes', 'todd', 'antonio', 'cagney', 'wallace', 'garfield']
+Closest word in cluster 96
+ "davies" with value of: 0.8845515251159668
+the hypernyms of the closest word are: []
+
+Words contained in cluster 97
+['traditional', 'knowledge', 'surface', 'portrait', 'relations', 'present', 'true', 'perspective', 'presented', 'scientific', 'lies', 'reality', 'reflect', 'dealing', 'importantly', 'dealt', 'expressed', 'influence', 'explore', 'personal', 'experiences', 'intimate', 'greed', 'common', 'versus', 'plight', 'form', 'terms', 'philosophy', 'messages', 'depiction', 'universe', 'sport', 'horrors', 'depicted', 'importance', 'environment', 'minds', 'intellectual', 'fictional', 'paranoia', 'opposed', 'ordinary', 'represent', 'deals', 'represented', 'belief', 'integrity', 'sides', 'possibilities', 'overwhelming', 'prejudice', 'metaphor', 'attitudes', 'study', 'realm', 'everyday', 'personalities', 'profound', 'individuals', 'depicting', 'peoples', 'explored', 'accurately', 'essence', 'represents', 'affect', 'morality', 'triumph', 'racial', 'behaviour', 'underlying', 'honesty', 'differences', 'subjects', 'individual', 'fantasies', 'successfully', 'figures', 'basis', 'poetry', 'cruelty', 'reflection', 'symbolic', 'conflicts', 'forms', 'exploration', 'beliefs', 'depicts', 'conservative', 'philosophical', 'sexuality', 'virtual']
+Closest word in cluster 97
+ "relations" with value of: 0.8357692956924438
+the hypernyms of the closest word are: ['judicial_doctrine', 'traffic', 'abstract_entity', 'sex', 'dealings', 'soul', 'legal_principle', 'sex_activity', 'mortal', 'person', 'narration', 'abstraction', 'recital', 'someone', 'individual', 'social_relation', 'judicial_principle', 'sexual_activity', 'yarn', 'somebody', 'sexual_practice']
+
+Words contained in cluster 98
+['forget', 'realize', 'know', 'anymore', 'notice', 'think', 'miss', 'talk', 'expect', 'seriously', 'bother', 'fooled', 'ask', 'understand', 'spoil', 'worry']
+Closest word in cluster 98
+ "know" with value of: 0.8672034740447998
+the hypernyms of the closest word are: ['recall', 'recollect', 'experience', 'go_through', 'differentiate', 'knowing', 'tell', 'tell_apart', 'copulate', 'retrieve', 'think', 'realise', 'separate', 'realize', 'see', 'agnise', 'secern', 'call_back', 'accept', 'remember', 'pair', 'recognise', 'severalise', 'mate', 'severalize', 'call_up', 'recognize', 'agnize', 'secernate', 'distinguish', 'couple']
+
+Words contained in cluster 99
+['fan']
+Closest word in cluster 99
+ "fan" with value of: 1.0
+the hypernyms of the closest word are: ['partisan', 'strain', 'deepen', 'intensify', 'sift', 'sieve', 'heighten', 'follower', 'compound', 'strike_out', 'agitate', 'partizan', 'shake', 'device', 'enthusiast']
+
+Words contained in cluster 100
+['based', 'novel', 'book', 'adapted', 'faithful', 'books', 'adaptation', 'novels', 'author', 'loosely']
+Closest word in cluster 100
+ "novel" with value of: 0.9074586033821106
+the hypernyms of the closest word are: ['volume', 'book', 'fiction']
+
+Words contained in cluster 101
+['enters', 'attempts', 'mysterious', 'becomes', 'begins', 'helps', 'manages', 'refuses', 'causes', 'plans', 'shell', 'discover', 'attempting', 'helping', 'trapped', 'determined', 'returns', 'dangerous', 'seeking', 'quest', 'womans', 'mans', 'sends', 'search', 'ultimate', 'agrees', 'pursuit', 'continues', 'patients', 'proceeds', 'seeks', 'stranger', 'promises']
+Closest word in cluster 101
+ "seeks" with value of: 0.9143369197845459
+the hypernyms of the closest word are: ['want', 'move', 'request', 'go', 'movement', 'motion', 'locomote', 'desire', 'travel', 'act']
+
+Words contained in cluster 102
+['soundtrack', 'song', 'dance', 'music', 'songs', 'dancing', 'score', 'musical', 'singing', 'numbers', 'sing', 'lyrics']
+Closest word in cluster 102
+ "songs" with value of: 0.8880099058151245
+the hypernyms of the closest word are: ['animal_communication', 'bargain', 'dynasty', 'steal', 'piece_of_music', 'buy', 'composition', 'vocal_music', 'sound', 'piece', 'opus', 'musical_composition']
+
+Words contained in cluster 103
+['million', 'miles', 'dollars', 'days', 'weeks', 'bucks', 'months', 'dollar', 'decades']
+Closest word in cluster 103
+ "months" with value of: 0.9113265872001648
+the hypernyms of the closest word are: ['period', 'time_period', 'unit_of_time', 'period_of_time', 'time_unit']
+
+Words contained in cluster 104
+['episode', 'show', 'series', 'season', 'episodes', 'seasons']
+Closest word in cluster 104
+ "episodes" with value of: 0.9137800335884094
+the hypernyms of the closest word are: ['happening', 'film', 'occurrent', 'program', 'section', 'occurrence', 'natural_event', 'programme', 'photographic_film', 'broadcast', 'subdivision']
+
+Words contained in cluster 105
+['bird', 'busy', 'speed', 'calling', 'beats', 'punch', 'pack', 'slap', 'blast', 'karate', 'kicked', 'picking', 'bush', 'guts', 'rotten', 'airplane', 'sign', 'trick', 'worn', 'females', 'wore', 'bat', 'bull', 'doll', 'crocodile', 'monkey', 'toilet', 'safe', 'brains', 'photo', 'wrestling', 'sticks', 'kicks', 'kick', 'ball', 'beer', 'cake', 'nuts', 'spots', 'round', 'iron', 'everywhere', 'dust', 'tongue', 'dolls', 'crack', 'kidding', 'smoking', 'holy', 'everyones', 'paper', 'offbr', 'clown', 'monkeys', 'clean', 'toys', 'blank', 'glasses', 'balls', 'bones', 'sink', 'butt', 'rat', 'spot', 'hideous', 'rabbit', 'hits', 'tall', 'rush', 'bite', 'load', 'wheres', 'strip', 'clothing', 'crowd', 'barney', 'tea', 'dear', 'chicken', 'catching', 'wine', 'dogs', 'pink', 'toy', 'puppets', 'awhile', 'cliff', 'knock', 'huh', 'mode', 'ass', 'mile', 'gag', 'wet', 'fancy', 'pitch', 'screams', 'ears', 'prepare', 'bugs', 'dirty', 'contest', 'kiss', 'bath', 'lips', 'hook', 'hip', 'dinosaur', 'pants', 'duck', 'rocks', 'elephant', 'cards', 'cream', 'bang', 'cats', 'lol', 'fever', 'noise', 'cup', 'bone', 'hung', 'pops', 'twins']
+Closest word in cluster 105
+ "pants" with value of: 0.8331940174102783
+the hypernyms of the closest word are: ['noise', 'inhalation', 'blow', 'emit', 'let_out', 'intake', 'let_loose', 'underpants', 'breathing_in', 'aspiration', 'utter', 'inspiration', 'garment']
+
+Words contained in cluster 106
+['poorly', 'badly']
+Closest word in cluster 106
+ "poorly" with value of: 0.98244309425354
+the hypernyms of the closest word are: []
+
+Words contained in cluster 107
+['hes', 'shes']
+Closest word in cluster 107
+ "shes" with value of: 0.9413775205612183
+the hypernyms of the closest word are: []
+
+Words contained in cluster 108
+['extremely', 'rather', 'particularly', 'mildly', 'quite', 'especially', 'nonetheless', 'equally', 'relatively', 'somewhat', 'surprisingly', 'mostly', 'neither', 'thoroughly', 'constructed', 'highly', 'tad', 'incredibly', 'technically', 'slightly', 'overly', 'fairly', 'exceptionally', 'handled', 'acted', 'executed', 'generally', 'genuinely', 'immensely', 'nevertheless', 'amazingly', 'scripted', 'remarkably', 'consistently', 'reasonably']
+Closest word in cluster 108
+ "extremely" with value of: 0.8238576650619507
+the hypernyms of the closest word are: []
+
+Words contained in cluster 109
+['minutes', 'minute', 'seconds']
+Closest word in cluster 109
+ "minutes" with value of: 0.9620921611785889
+the hypernyms of the closest word are: ['written_record', 'note', 'point_in_time', 'point', 'time', 'unit_of_time', 'time_unit', 'distance', 'angular_unit', 'written_account']
+
+Words contained in cluster 110
+['look', 'looking', 'looked', 'seem']
+Closest word in cluster 110
+ "look" with value of: 0.8833995461463928
+the hypernyms of the closest word are: ['sensing', 'correspond', 'perception', 'appearance', 'give_care', 'trust', 'visage', 'fit', 'bank', 'rely', 'atmosphere', 'be', 'ambience', 'see', 'check', 'examine', 'match', 'countenance', 'tally', 'care', 'gibe', 'swear', 'agree', 'convey', 'visual_aspect', 'jibe', 'ambiance', 'lie']
+
+Words contained in cluster 111
+['far', 'pictures', 'remains', 'picture', 'alltime', 'doubt', 'examples', 'achieved', 'tradition', 'list', 'superior', 'successful', 'unlike', 'efforts', 'belongs', 'example', 'noted', 'compared', 'hitchcocks', 'hitchcock', 'easily', 'comparison', 'considered', 'feature', 'epic', 'underrated', 'mustsee', 'similarities', 'universal', 'alfred', 'achievement', 'inspired', 'literature', 'godfather', 'bollywood', 'overlooked', 'ranks', 'entry', 'influenced', 'rank', 'productions', 'regarded', 'filmsbr', 'ingredients', 'undoubtedly', 'documentaries', 'tribute', 'proved', 'scores', 'hollywoods', 'arguably', 'category', 'overrated', 'comparing', 'inferior', 'timeless', 'widely', 'cinemas', 'kubrick']
+Closest word in cluster 111
+ "arguably" with value of: 0.8001147508621216
+the hypernyms of the closest word are: []
+
+Words contained in cluster 112
+['performance']
+Closest word in cluster 112
+ "performance" with value of: 1.0
+the hypernyms of the closest word are: ['presentation', 'presentment', 'action', 'demonstration', 'physical_process', 'process', 'show', 'accomplishment', 'achievement']
+
+Words contained in cluster 113
+['written', 'director', 'directed', 'writer', 'screenplay', 'producer', 'screenwriter', 'writers', 'wrote']
+Closest word in cluster 113
+ "screenwriter" with value of: 0.8475309014320374
+the hypernyms of the closest word are: ['scriptwriter']
+
+Words contained in cluster 114
+['seen', 'heard']
+Closest word in cluster 114
+ "seen" with value of: 0.9346350431442261
+the hypernyms of the closest word are: ['invite', 'verify', 'experience', 'deliberate', 'call', 'go_through', 'give_care', 'observe', 'assort', 'conceive', 'discover', 'associate', 'detect', 'undergo', 'consort', 'perceive', 'think', 'understand', 'see', 'ideate', 'imagine', 'believe', 'tour', 'play', 'take_in', 'care', 'watch', 'visit', 'debate', 'turn_over', 'moot', 'consider', 'affiliate', 'wager', 'find', 'receive', 'call_in', 'bet', 'envisage', 'accompany', 'comprehend', 'notice', 'conceive_of']
+
+Words contained in cluster 115
+['best', 'worst', 'funniest', 'finest', 'greatest']
+Closest word in cluster 115
+ "best" with value of: 0.9003737568855286
+the hypernyms of the closest word are: ['someone', 'effort', 'individual', 'beat_out', 'beat', 'attempt', 'endeavor', 'endeavour', 'mortal', 'soul', 'shell', 'trounce', 'vanquish', 'try', 'somebody', 'person', 'crush']
+
+Words contained in cluster 116
+['ever']
+Closest word in cluster 116
+ "ever" with value of: 0.9999999403953552
+the hypernyms of the closest word are: []
+
+Words contained in cluster 117
+['fall', 'falls', 'fell', 'falling']
+Closest word in cluster 117
+ "falls" with value of: 0.908516526222229
+the hypernyms of the closest word are: ['pop_off', 'water', 'fall_out', 'change_of_location', 'victory', 'locomote', 'triumph', 'occur', 'go_wrong', 'side', 'perianth', 'hour', 'chlamys', 'drop_dead', 'commence', 'fall', 'decrease', "cash_in_one's_chips", 'incline', 'conk', 'choke', 'go_on', 'descent', 'time_of_day', 'slope', 'come', 'trespass', 'croak', 'pass_away', 'devolve', 'hap', 'change_owners', 'set_out', 'snuff_it', 'sin', 'expire', 'step_down', 'transgress', 'pass_off', 'resign', 'leave_office', 'emerge', 'be_born', 'start', 'move', 'change', 'get_down', 'slip', 'give-up_the_ghost', 'perigonium', 'egress', 'quit', 'die', 'kick_the_bucket', 'change_state', 'season', 'change_posture', 'get', 'start_out', 'decrement', 'go_forth', 'come_out', 'vanish', 'take_place', 'pitch', 'floral_envelope', 'come_about', 'body_of_water', 'return', 'change_magnitude', 'fail', 'turn', 'buy_the_farm', 'travel', 'happen', 'go', 'issue', 'be', 'begin', 'perigone', 'gravitation', 'change_hands', 'decease', 'come_forth', 'miscarry', 'time_of_year', 'disappear', 'weakening', 'loss', 'yield', 'exit', 'go_away', 'pass', 'set_about', 'perish', 'trip', 'sinning']
+
+Words contained in cluster 118
+['world', 'country', 'england', 'usa', 'countries', 'americas', 'civil', 'century', 'europe', 'cities', 'india', 'italy', 'canada', 'china', 'union', 'empire', 'france', 'nations', 'revolution', 'international', 'australia', 'history', '20th', 'worlds', 'wwii', 'russia', 'generation', 'nation', 'communist', 'groups', 'wave', 'poverty', 'japan', 'britain', 'germany', 'vietnam', 'spain', 'soviet', 'eastern']
+Closest word in cluster 118
+ "europe" with value of: 0.9240016341209412
+the hypernyms of the closest word are: ['global_organization', 'international_organization', 'collection', 'assemblage', 'accumulation', 'aggregation', 'international_organisation', 'world_organization', 'world_organisation']
+
+Words contained in cluster 119
+['laughed', 'jokes', 'laugh', 'joke', 'loud', 'laughing']
+Closest word in cluster 119
+ "laughing" with value of: 0.8776047825813293
+the hypernyms of the closest word are: ['express_feelings', 'express_emotion']
+
+Words contained in cluster 120
+['spend', 'waste', 'wasted', 'spent', 'spends', 'spending', 'wasting']
+Closest word in cluster 120
+ "wasting" with value of: 0.8687918186187744
+the hypernyms of the closest word are: ['drop', 'devolve', 'debilitate', 'expend', 'spend', 'apply', 'symptom', 'toss_away', 'chuck_out', 'throw_away', 'cast_away', 'discard', 'frailness', 'utilise', 'weaken', 'utilize', 'employ', 'run', 'feebleness', 'put_away', 'degenerate', 'course', 'valetudinarianism', 'destroy', 'throw_out', 'cast_aside', 'ruin', 'dispose', 'enfeeble', 'drain', 'flow', 'cast_out', 'debility', 'use', 'toss', 'kill', 'feed', 'deteriorate', 'fling', 'infirmity', 'toss_out', 'frailty']
+
+Words contained in cluster 121
+['summer', 'weekend', 'saturday', 'nights', 'sunday', 'late', 'lifetime', 'evening', 'gem', 'memories', 'month', 'ages', 'friday', 'channels', 'holiday', 'christmas', 'afternoon']
+Closest word in cluster 121
+ "afternoon" with value of: 0.8860646486282349
+the hypernyms of the closest word are: ['word_of_farewell', 'daytime', 'greeting', 'day', 'daylight', 'salutation', 'farewell']
+
+Words contained in cluster 122
+['comedy']
+Closest word in cluster 122
+ "comedy" with value of: 1.0
+the hypernyms of the closest word are: ['fun', 'drama', 'play', 'sport']
+
+Words contained in cluster 123
+['watching', 'see', 'watch', 'rent', 'seeing']
+Closest word in cluster 123
+ "watch" with value of: 0.907972514629364
+the hypernyms of the closest word are: ['time_period', 'work_shift', 'check_into', 'suss_out', 'shift', 'timekeeper', 'watchman', 'look_into', 'go_over', 'check', 'surveillance', 'religious_rite', 'watch', 'watcher', 'timepiece', 'period_of_time', 'check_out', 'horologe', 'rite', 'period', 'check_over', 'check_up_on', 'duty_period', 'security_guard']
+
+Words contained in cluster 124
+['would', 'wouldnt', 'id', 'might', 'could', 'youd']
+Closest word in cluster 124
+ "would" with value of: 0.9233673810958862
+the hypernyms of the closest word are: []
+
+Words contained in cluster 125
+['dvd', 'vhs', 'copy']
+Closest word in cluster 125
+ "vhs" with value of: 0.9248151779174805
+the hypernyms of the closest word are: []
+
+Words contained in cluster 126
+['levels', 'characters', 'situations', 'points', 'plots', 'concept', 'aspects', 'ways', 'stories', 'parts', 'flaws', 'premise', 'elements', 'twists', 'ideas', 'reasons', 'subplots']
+Closest word in cluster 126
+ "subplots" with value of: 0.8398411273956299
+the hypernyms of the closest word are: []
+
+Words contained in cluster 127
+['sets', 'visually', 'costumes', 'visuals', 'design', 'settings', 'visual', 'locations', 'photography', 'location', 'scenery', 'colors', 'camerawork', 'color']
+Closest word in cluster 127
+ "settings" with value of: 0.916029691696167
+the hypernyms of the closest word are: ['environment', 'stage', 'surroundings', 'place', 'mounting', 'table_service', 'service', 'surround', 'environs', 'position']
+
+Words contained in cluster 128
+['bad', 'awful', 'lame', 'horrible', 'terrible', 'crappy', 'worse', 'stupid', 'dumb', 'poor', 'dreadful', 'sucks', 'pathetic', 'lousy', 'atrocious']
+Closest word in cluster 128
+ "awful" with value of: 0.9111604690551758
+the hypernyms of the closest word are: []
+
+Words contained in cluster 129
+['film', 'thriller', 'horror', 'sequels', 'bmovie', 'genre', 'flicks', 'remake', 'sequel', 'flick', 'slasher', 'lowbudget']
+Closest word in cluster 129
+ "bmovie" with value of: 0.8145720958709717
+the hypernyms of the closest word are: []
+
+Words contained in cluster 130
+['1', 'vote', 'rated', 'rate', 'rating', '0']
+Closest word in cluster 130
+ "rating" with value of: 0.8898941874504089
+the hypernyms of the closest word are: ['assessment', 'capture', 'assess', 'hire', 'pad', 'judgment', 'appraisal', 'appraise', 'measure', 'work', 'be', 'catch', 'employ', 'judgement', 'defect', 'do_work', 'desert', 'valuate', 'inform', 'judge', 'evaluate', 'engage', 'rank', 'pass_judgment', 'fill_out', 'value', 'standing']
+
+Words contained in cluster 131
+['plot', 'story', 'storyline']
+Closest word in cluster 131
+ "plot" with value of: 0.9301764369010925
+the hypernyms of the closest word are: ['strategy', 'plan', 'map', 'draw', 'story', 'contrive', 'scheme', 'chart', 'piece_of_ground', 'parcel', 'tract', 'project', 'parcel_of_land', 'design', 'piece_of_land']
+
+Words contained in cluster 132
+['talented', 'job', 'talent', 'casting', 'chemistry', 'supporting', 'actresses', 'talents', 'ensemble']
+Closest word in cluster 132
+ "talents" with value of: 0.8304829001426697
+the hypernyms of the closest word are: ['expert', 'natural_ability']
+
+Words contained in cluster 133
+['tv', 'aired', 'version', 'release', 'television', 'uk', 'available', 'network', 'produced', 'released', 'hbo', 'theaters', 'theatrical', 'miniseries', 'cable', 'bbc', 'channel', 'broadcast']
+Closest word in cluster 133
+ "uk" with value of: 0.8833654522895813
+the hypernyms of the closest word are: []
+
+Words contained in cluster 134
+['little', 'bit']
+Closest word in cluster 134
+ "bit" with value of: 0.9210580587387085
+the hypernyms of the closest word are: ['hurt', 'grip', 'portion', 'stable_gear', 'instance', 'smart', 'public_presentation', 'case', 'example', 'fragment', 'small_indefinite_quantity', 'saddlery', 'tack', 'unit_of_measurement', 'small_indefinite_amount', 'time', 'part', 'pierce', 'performance', 'mouthful', 'ache', 'unit', 'cutting_implement', 'taste']
+
+Words contained in cluster 135
+['classic', 'original', 'anime', 'fans', 'animated', 'cartoons', 'disney', 'scifi', 'cartoon', 'batman']
+Closest word in cluster 135
+ "anime" with value of: 0.8415559530258179
+the hypernyms of the closest word are: ['copal', 'natural_resin']
+
+Words contained in cluster 136
+['plays', 'playing', 'play', 'sympathetic', 'played', 'portrays', 'leading', 'portraying', 'lead', 'portrayed', 'portray', 'portrayal']
+Closest word in cluster 136
+ "played" with value of: 0.8308083415031433
+the hypernyms of the closest word are: ['re-create', 'sham', 'beat', 'deploy', 'tucker', 'vie', 'apply', 'locomote', 'sound', 'travel', 'perform', 'go', 'work', 'look_at', 'utilise', 'tucker_out', 'contend', 'manipulate', 'utilize', 'discharge', 'employ', 'do', 'create', 'play', 'compete', 'exploit', 'take', 'consider', 'feign', 'wash_up', 'wager', 'simulate', 'displace', 'assume', 'move', 'behave', 'gamble', 'make', 'bet', 'use', 'deal', 'hit', 'exhaust', 'act']
+
+Words contained in cluster 137
+['grown', 'old', 'grew', 'older', 'golden', 'age', '17', 'born', 'younger', '13', '18', '16', '14']
+Closest word in cluster 137
+ "17" with value of: 0.8619163632392883
+the hypernyms of the closest word are: ['large_integer']
+
+Words contained in cluster 138
+['connect', 'work', 'change', 'recognize', 'fit', 'ruin', 'improve', 'capture', 'fault', 'appear', 'matter', 'miserably', 'put', 'maintain', 'entertain', 'achieve', 'build', 'add', 'justify', 'hold', 'identify', 'create', 'pull', 'carry', 'forgive', 'rely', 'exist', 'draw', 'belong', 'express', 'deliver', 'fill', 'slightest', 'require', 'convey', 'offer', 'impress', 'allow', 'grasp', 'satisfy', 'succeed', 'convince', 'pretend', 'complain', 'argue']
+Closest word in cluster 138
+ "succeed" with value of: 0.8101584315299988
+the hypernyms of the closest word are: []
+
+Words contained in cluster 139
+['state', 'currently', 'rights', 'research', 'according', 'future', 'company', 'system', 'press', 'banned', 'states', 'public', 'web', 'board', 'report', 'post', 'national', 'office', 'media', 'millions', 'current', 'hopes', 'enterprise', 'popularity', 'test', 'selling', 'critical', 'newspaper', 'guide', 'receive', 'service', 'status', 'companies', 'code', 'base', 'alternative', 'market', 'access', 'classes', 'advertising', 'schools', 'advanced', 'refused', 'demand', 'global', 'financial', 'magazine', 'official']
+Closest word in cluster 139
+ "access" with value of: 0.8220636248588562
+the hypernyms of the closest word are: ['approaching', 'right', 'make', 'regain', 'coming', 'gain', 'recover', 'reach', 'hit', 'way', 'attain', 'arrive_at', 'retrieve', 'code', 'find', 'operation', 'approach']
+
+Words contained in cluster 140
+['uncomfortable', 'tears', 'happy', 'laughter', 'cry', 'hurt', 'angry', 'sad', 'bored', 'confused', 'sick', 'enjoying', 'smiling', 'moment', 'cried', 'guilty', 'smile', 'hurts', 'depressed', 'embarrassed', 'annoyed', 'touched', 'upset', 'scared', 'pleasure', 'asleep', 'crying', 'reaction', 'shed', 'wishing', 'cheated']
+Closest word in cluster 140
+ "depressed" with value of: 0.7396332621574402
+the hypernyms of the closest word are: ['move', 'let_down', 'change', 'bring_down', 'modify', 'alter', 'discourage', 'lower', 'weaken', 'take_down', 'get_down', 'displace']
+
+Words contained in cluster 141
+['effort', 'chance', 'shame', 'recognition', 'received', 'worthy', 'deserve', 'deserves', 'credit', 'kudos', 'opportunity', 'praise', 'deserved']
+Closest word in cluster 141
+ "recognition" with value of: 0.8625020980834961
+the hypernyms of the closest word are: ['commendation', 'diplomacy', 'designation', 'approval', 'remembering', 'apprehension', 'credence', 'diplomatic_negotiations', 'discernment', 'naming', 'appointment', 'memory', 'assignment', 'savvy', 'organic_phenomenon', 'understanding', 'acceptance']
+
+Words contained in cluster 142
+['section', 'credits', 'included', 'videos', 'segments', 'print', 'opening', 'quotes', 'edited', 'bonus', 'extras', 'interview', 'clips', 'trailers', 'record', 'interviews', 'notes', 'mtv', 'pieces', 'audio', 'footage', 'clip', 'track', 'screens', 'releases', 'format', 'recording', 'titles', 'widescreen', 'cd', 'edition', 'segment', 'closing', 'collection', 'commercials', 'versions', 'disc', 'copies', 'package', 'recorded', 'reel', 'transfer']
+Closest word in cluster 142
+ "disc" with value of: 0.8630532026290894
+the hypernyms of the closest word are: ['audio', 'memory_device', 'round', 'storage_device', 'audio_recording', 'plate', 'round_shape', 'circle', 'sound_recording']
+
+Words contained in cluster 143
+['remember']
+Closest word in cluster 143
+ "remember" with value of: 1.0000001192092896
+the hypernyms of the closest word are: ['cite', 'advert', 'bequeath', 'bring_up', 'tie_in', 'link', 'will', 'mention', 'connect', 'name', 'associate', 'refer', 'link_up', 'colligate', 'leave', 'relate']
+
+Words contained in cluster 144
+['irish', 'german', 'southern', 'indian', 'italian', 'american', 'french', 'european', 'british', 'mexican', 'japanese', 'australian', 'canadian', 'native', 'korean', 'asian', 'russian', 'foreign', 'pie', 'african', 'chinese', 'spanish', 'turkish', 'swedish']
+Closest word in cluster 144
+ "korean" with value of: 0.8422824144363403
+the hypernyms of the closest word are: ['Asiatic', 'Asian', 'Altaic', 'Altaic_language']
+
+Words contained in cluster 145
+['suddenly', 'constantly', 'cell', 'inside', 'table', 'hanging', 'apartment', 'breaks', 'conversation', 'window', 'drives', 'drops', 'building', 'accidentally', 'floor', 'room', 'bar', 'breaking', 'phone', 'bed', 'corner', 'bedroom', 'restaurant', 'runs', 'sleeping', 'hiding', 'walking', 'kitchen', 'chasing', 'food', 'drinking', 'driving', 'wandering', 'locked', 'bathroom', 'shop', 'sits', 'lying', 'eats', 'chased', 'wall', 'walks', 'lab', 'carrying', 'pool', 'coffee', 'tree', 'dinner', 'catches']
+Closest word in cluster 145
+ "sits" with value of: 0.8845399022102356
+the hypernyms of the closest word are: ['move', 'place', 'pose', 'set', 'go', 'lay', 'serve', 'be', 'display', 'put', 'locomote', 'convene', 'guard', 'change_posture', 'expose', 'travel', 'exhibit', 'position']
+
+Words contained in cluster 146
+['tone', 'drama', 'excitement', 'thrills', 'mood', 'atmosphere', 'climax', 'suspense', 'thrilling', 'element', 'tension', 'edge', 'throughout', 'finale', 'builds', 'intrigue', 'mystery', 'unexpected', 'scares', 'suspenseful', 'surprises', 'exciting', 'tense', 'dramatic', 'mix']
+Closest word in cluster 146
+ "tension" with value of: 0.8592150807380676
+the hypernyms of the closest word are: ['enmity', 'stretching', 'mental_strain', 'condition', 'strain', 'hostility', 'stress', 'antagonism', 'status', 'nervous_strain', 'balance']
+
+Words contained in cluster 147
+['forward']
+Closest word in cluster 147
+ "forward" with value of: 0.9999999403953552
+the hypernyms of the closest word are: ['transport', 'cager', 'basketball_player', 'send', 'ship', 'basketeer', 'position']
+
+Words contained in cluster 148
+['budget']
+Closest word in cluster 148
+ "budget" with value of: 1.0
+the hypernyms of the closest word are: ['plan', 'figure', 'program', 'monetary_fund', 'cipher', 'work_out', 'reckon', 'cypher', 'calculate', 'compute', 'fund', 'programme']
+
+Words contained in cluster 149
+['alien', 'planet', 'monster', 'humans', 'dinosaurs', 'robots', 'animals', 'space', 'creatures', 'outer', 'creature', 'earth', 'zombies', 'monsters', 'aliens', 'robot', 'giant', 'predator', 'vampires', 'snakes']
+Closest word in cluster 149
+ "aliens" with value of: 0.9123957753181458
+the hypernyms of the closest word are: ['transfer', 'trespasser', 'change', 'modify', 'alter', 'hypothetical_creature', 'intruder', 'traveler', 'traveller', 'interloper']
+
+Words contained in cluster 150
+['worth']
+Closest word in cluster 150
+ "worth" with value of: 1.0
+the hypernyms of the closest word are: ['indefinite_quantity', 'quality']
+
+Words contained in cluster 151
+['special', 'effects', 'fx', 'animation', 'computer', 'graphics', 'makeup', 'cgi']
+Closest word in cluster 151
+ "cgi" with value of: 0.9084578156471252
+the hypernyms of the closest word are: []
+
+Words contained in cluster 152
+['game', 'games']
+Closest word in cluster 152
+ "game" with value of: 0.9627197980880737
+the hypernyms of the closest word are: ['strategy', 'romp', 'recreation', 'scheme', 'business', 'beast', 'line', 'gambol', 'caper', 'brute', 'animate_being', 'activity', 'diversion', 'score', 'animal', 'occupation', 'job', 'play', 'section', 'part', 'competition', 'contest', 'creature', 'division', 'wager', 'line_of_work', 'frolic', 'fauna', 'bet', 'game_equipment', 'meat']
+
+Words contained in cluster 153
+['editing', 'acting', 'direction', 'writing', 'cinematography', 'directing']
+Closest word in cluster 153
+ "direction" with value of: 0.8993726372718811
+the hypernyms of the closest word are: ['subject_matter', 'engrossment', 'control', 'social_control', 'tendency', 'disposition', 'message', 'concentration', 'dictation', 'immersion', 'spatial_relation', 'route', 'substance', 'inclination', 'position', 'command', 'bidding', 'path', 'absorption', 'bid', 'itinerary', 'content']
+
+Words contained in cluster 154
+['spoiler', 'conclusion', 'disappointment', 'surprise', 'twist', 'ending', 'spoilers']
+Closest word in cluster 154
+ "ending" with value of: 0.802860677242279
+the hypernyms of the closest word are: ['happening', 'point_in_time', 'point', 'occurrent', 'section', 'morpheme', 'change', 'modify', 'occurrence', 'alter', 'be', 'change_of_state', 'natural_event', 'destroy', 'destruct', 'subdivision']
+
+Words contained in cluster 155
+['screen']
+Closest word in cluster 155
+ "screen" with value of: 1.0000001192092896
+the hypernyms of the closest word are: ['canvass', 'protective_cover', 'show', 'sieve', 'divider', 'movie_industry', 'display', 'video_display', 'check', 'protect', 'examine', 'occlude', 'protection', 'strainer', 'partition', 'film_industry', 'covering', 'canvas', 'take', 'door', 'impede', 'close_up', 'pick_out', 'analyze', 'select', 'study', 'surface', 'analyse', 'obturate', 'strain', 'sift', 'obstruct', 'block', 'choose', 'jam', 'protective_covering']
+
+Words contained in cluster 156
+['human', 'loneliness', 'sacrifice', 'meaning', 'emotional', 'beings', 'thoughts', 'journey', 'spirit', 'existence', 'conflict', 'sympathy', 'deeply', 'nature', 'anger', 'courage', 'emotions', 'ultimately', 'fear', 'consequences', 'condition', 'deeper', 'deep', 'loss', 'struggle', 'pain', 'faith', 'situation', 'tragedy', 'guilt', 'heart', 'despair', 'understanding', 'dignity', 'suffering', 'friendship', 'struggles', 'desire', 'passion', 'tragic', 'relationships', 'happiness', 'innocence', 'insight', 'soul', 'humanity', 'freedom', 'abuse', 'frustration', 'confusion', 'spiritual', 'emotionally', 'sadness', 'desperation', 'feelings', 'christ', 'betrayal', 'lust', 'redemption', 'inner']
+Closest word in cluster 156
+ "loneliness" with value of: 0.9337468147277832
+the hypernyms of the closest word are: ['temperament', 'sadness', 'disposition', 'unhappiness', 'isolation']
+
+Words contained in cluster 157
+['voices', 'english', 'speak', 'dubbed', 'sounded', 'language', 'voice', 'sound', 'accents', 'accent', 'spoken', 'sounds', 'speaks', 'subtitles', 'speaking', 'dubbing']
+Closest word in cluster 157
+ "speaking" with value of: 0.8370171785354614
+the hypernyms of the closest word are: ['utterance', 'vocalization', 'communicate', 'intercommunicate', 'sound', 'speech', 'address']
+
+Words contained in cluster 158
+['struck', 'comfortable', 'chosen', 'replace', 'hence', 'involved', 'pushing', 'wonders', 'appears', 'course', 'affected', 'describes', 'aware', 'associated', 'exposure', 'missing', 'close', 'appearing', 'initially', 'stood', 'concerned', 'closest', 'suggests', 'unfortunate', 'exists', 'served', 'quit', 'remind', 'accomplished', 'suggested', 'respected', 'exposed', 'explains', 'mistaken', 'talked', 'attached', 'unknown', 'treated', 'offered', 'pulled', 'planned', 'believing', 'fond', 'whereas', 'fascinated', 'spoke', 'ah', 'luckily', 'removed', 'reads', 'disliked', 'disappear', 'ignored', 'replaced', 'established', 'related', 'closer', 'fortunately', 'advance', 'convinced', 'suspect', 'referred', 'link', 'reminded', 'misses', 'secondly', 'guessed', 'devoted', 'absent', 'pointed', 'reduced', 'treats', 'dedicated', 'suffered', 'claimed', 'confess', 'worried', 'carried', 'attempted', 'laid', 'instance', 'handed', 'conceived', 'witnessed', 'counts', 'borrowed', 'messed', 'complaining', 'narrator', 'mentions', 'occurred']
+Closest word in cluster 158
+ "explains" with value of: 0.6652664542198181
+the hypernyms of the closest word are: ['inform', 'say', 'tell', 'justify', 'vindicate', 'state']
+
+Words contained in cluster 159
+['years', 'year']
+Closest word in cluster 159
+ "years" with value of: 0.9561355113983154
+the hypernyms of the closest word are: ['period', 'time_period', 'assemblage', 'period_of_time', 'time_of_life', 'gathering', 'life']
+
+Words contained in cluster 160
+['tried', 'wanted', 'decided']
+Closest word in cluster 160
+ "wanted" with value of: 0.8790940046310425
+the hypernyms of the closest word are: ['lack', 'miss', 'be', 'demand', 'search', 'seek', 'look_for']
+
+Words contained in cluster 161
+['appeal', 'taste', 'way', 'still', 'probably', 'type', 'usually', 'appreciate', 'kind', 'sort', 'always', 'either', 'liking', 'personally', 'normally', 'treat', 'certainly', 'ones', 'consider', 'opinion', 'offended', 'nostalgic', 'afraid', 'entertained', 'definitely', 'otherwise', 'honest', 'elsewhere', 'interested', 'necessarily', 'nostalgia', 'lately', 'prefer', 'strongly', 'dislike', 'anyways', 'tend', 'buff', 'endings', 'appreciated', 'granted', 'disappoint', 'hoped', 'disagree', 'tastes', 'alike', 'diehard', 'admire', 'guarantee', 'satisfied', 'enjoys']
+Closest word in cluster 161
+ "dislike" with value of: 0.7180923819541931
+the hypernyms of the closest word are: ['disposition', 'feeling', 'tendency', 'inclination']
+
+Words contained in cluster 162
+['doesnt', 'didnt', 'dont', 'wont']
+Closest word in cluster 162
+ "dont" with value of: 0.8760040402412415
+the hypernyms of the closest word are: []
+
+Words contained in cluster 163
+['happened', 'never', 'fact', 'sense', 'point', 'whats', 'happening', 'idea', 'mistake', 'reason', 'thinking', 'happen', 'explanation', 'question', 'whether', 'wonder', 'begin', 'call', 'clue', 'asking', 'knowing', 'whatever', 'impression', 'wondering', 'difference', 'answer']
+Closest word in cluster 163
+ "clue" with value of: 0.7291529178619385
+the hypernyms of the closest word are: ['indicant', 'roll', 'evidence', 'indication', 'wrap', 'twine', 'wind']
+
+Words contained in cluster 164
+['15', '25', 'ten', '20', '50', '100', 'twelve', 'twenty', 'thirty', 'six', '60', '90', 'five', 'eight', 'fifteen', '23', '30', 'nine', '24', 'seven', '40', '35', '45', '70', '80']
+Closest word in cluster 164
+ "thirty" with value of: 0.9494916796684265
+the hypernyms of the closest word are: ['large_integer']
+
+Words contained in cluster 165
+['trust', 'dare', 'ready', 'order', 'may', 'managed', 'must', 'let', 'try', 'enough', 'shouldnt', 'prepared', 'able', 'wanting', 'needs', 'willing', 'shall', 'forced', 'letting', 'theyll', 'manage', 'likely', 'unable', 'favor', 'itll', 'compelled', 'needless', 'urge']
+Closest word in cluster 165
+ "willing" with value of: 0.765271008014679
+the hypernyms of the closest word are: ['selection', 'pick', 'present', 'give', 'decide', 'option', 'gift', 'determine', "make_up_one's_mind", 'ordain', 'choice']
+
+Words contained in cluster 166
+['carol', 'karen', 'nicole', 'natalie', 'anna', 'mary', 'foster', 'susan', 'butler', 'rose', 'sarah', 'sally', 'helen', 'philip', 'lane', 'dorothy', 'parker', 'patricia', 'kate', 'stanwyck', 'barbara', 'drew', 'martha', 'holly', 'alice', 'daniel', 'linda', 'victor', 'marion', 'margaret', 'ms', 'betty', 'maggie', 'alex', 'queen', 'elizabeth', 'rupert', 'anne', 'dancer', 'cook', 'emily', 'ann', 'claire', 'catherine', 'mrs', 'charlotte', 'carter', 'laura', 'lisa', 'diane', 'amanda', 'molly', 'julie', 'victoria', 'eva', 'nancy', 'annie', 'kitty', 'angela', 'diana', 'aaron', 'prince', 'watson', 'carrie', 'hugh', 'donna', 'jessica', 'maria', 'marie', 'rita', 'emma', 'peters', 'lucy', 'tyler', 'ruth']
+Closest word in cluster 166
+ "ann" with value of: 0.9309945106506348
+the hypernyms of the closest word are: []
+
+Words contained in cluster 167
+['isnt', 'theyre', 'arent']
+Closest word in cluster 167
+ "arent" with value of: 0.910412609577179
+the hypernyms of the closest word are: []
+
+Words contained in cluster 168
+['mess', 'flat', 'terribly', 'basically', 'totally', 'meaningless', 'dialogs', 'boring', 'painfully', 'tired', 'predictable', 'amateurish', 'unbelievable', 'stilted', 'ridiculous', 'absurd', 'line', 'nonsense', 'utterly', 'clichéd', 'formulaic', 'confusing', 'dull', 'unnecessary', 'tedious', 'unoriginal', 'completely', 'clichés', 'continuity', 'implausible', 'illogical', 'incomprehensible', 'laughable', 'shallow', 'holes', 'trite', 'weak', 'unconvincing', 'forgettable', 'pointless', 'incoherent', 'inept', 'plain', 'laughably', 'ludicrous', 'pretentious', 'uninteresting', 'ridiculously', 'melodramatic', 'unrealistic', 'convoluted', 'disjointed', 'idiotic', 'cliché', 'repetitive', 'nonexistent', 'unbelievably', 'dialogues', 'downright', 'unfunny', 'thin', 'sloppy', 'contrived', 'horribly', 'nonsensical', 'generic', 'uninspired', 'inane']
+Closest word in cluster 168
+ "unoriginal" with value of: 0.9389714002609253
+the hypernyms of the closest word are: []
+
+Words contained in cluster 169
+['wasnt', 'werent']
+Closest word in cluster 169
+ "wasnt" with value of: 0.9384894371032715
+the hypernyms of the closest word are: []
+
+Words contained in cluster 170
+['real', 'hard', 'possible', 'fails', 'fail', 'failed', 'serious', 'attempt', 'without', 'impossible', 'easier', 'difficult', 'necessary', 'easy', 'clear', 'decisions', 'matters', 'harder', 'mistakes', 'choices', 'decision']
+Closest word in cluster 170
+ "difficult" with value of: 0.7626046538352966
+the hypernyms of the closest word are: []
+
+Words contained in cluster 171
+['guy', 'guys']
+Closest word in cluster 171
+ "guys" with value of: 0.9170231223106384
+the hypernyms of the closest word are: ['simulacrum', 'man', 'effigy', 'adult_male', 'mock', 'image', 'steady', 'stabilize', 'stabilise', 'bemock', 'bracing', 'brace']
+
+Words contained in cluster 172
+['street', 'water', 'trees', 'snow', 'mountain', 'horse', 'burning', 'ground', 'rooms', 'yellow', 'hills', 'flying', 'basement', 'swimming', 'ocean', 'lake', 'red', 'floating', 'hole', 'blue', 'walls', 'bridge', 'green', 'birds', 'flight', 'rain', 'mirror', 'landing', 'waves', 'corpses', 'riding', 'explosion', 'wild', 'rides', 'wind', 'cars', 'horses', 'fish', 'prey', 'cave', 'heat', 'ice', 'storm', 'sun', 'moon', 'tank', 'doors', 'sky', 'forest', 'lights', 'ships', 'flies', 'flash', 'buildings', 'steel', 'valley', 'sand', 'underwater']
+Closest word in cluster 172
+ "trees" with value of: 0.8782188892364502
+the hypernyms of the closest word are: ['chase', 'guide', 'tag', 'plane_figure', 'ligneous_plant', 'direct', 'track', 'point', 'steer', 'maneuver', 'dog', 'channelize', 'chase_after', 'plant', 'trail', 'tail', 'woody_plant', 'head', 'set', 'elongate', 'stretch', 'manoeuver', 'give_chase', 'two-dimensional_figure', 'manoeuvre', 'go_after', 'channelise']
+
+Words contained in cluster 173
+['high', 'thumbs', 'low', 'b', 'lower', '310', 'scale', 'ratings', 'pg13', 'r', '210', 'grade', '410', '810', '110', 'zero', 'rates', '1010', '910', '710', 'generous', 'higher', 'lowest']
+Closest word in cluster 173
+ "410" with value of: 0.8769851326942444
+the hypernyms of the closest word are: []
+
+Words contained in cluster 174
+['times']
+Closest word in cluster 174
+ "times" with value of: 1.0
+the hypernyms of the closest word are: ['second', 'time_period', 'regulate', 'shape', 'instance', 'attribute', 'experience', 'meter_reading', 'indication', 'case', 'example', 'measure', 'rhythmicity', 'dimension', 'term', 'schedule', 'mold', 'adjust', 'moment', 'set', 'minute', 'period_of_time', 'arithmetic_operation', 'instant', 'reading', 'period', 'influence', 'quantify', 'correct', 'determine']
+
+Words contained in cluster 175
+['member', 'members', 'crew']
+Closest word in cluster 175
+ "members" with value of: 0.9330889582633972
+the hypernyms of the closest word are: ['external_body_part', 'component', 'portion', 'part', 'erectile_organ', 'constituent', 'social_unit', 'associate', 'unit', 'component_part']
+
+Words contained in cluster 176
+['piece', 'pile', 'junk', 'rubbish', 'crap', 'garbage', 'trash']
+Closest word in cluster 176
+ "garbage" with value of: 0.938910722732544
+the hypernyms of the closest word are: ['subject_matter', 'receptacle', 'waste_material', 'waste_product', 'message', 'waste', 'waste_matter', 'substance', 'content']
+
+Words contained in cluster 177
+['called', 'devil', 'zombie', 'camp', 'psycho', 'terror', 'title', 'matrix', 'ghost', 'halloween', 'holocaust', 'deadly', 'citizen', 'massacre', 'aka', 'grave', 'jaws', 'shark', 'grudge', 'ripoff', 'blade', 'rip', 'witch', 'dawn', 'scream', 'werewolf', 'iii', 'texas', 'blair', 'hammer', 'vampire', 'warrior', '13th', 'santa', 'lion', 'puppet', 'nightmare', 'freddy', 'beast', 'demons', 'chainsaw', 'scarecrow', 'angels', 'curse', 'cannibal', 'dracula', 'legend', 'frankenstein', 'prom', 'wolf', 'apes', 'mummy']
+Closest word in cluster 177
+ "chainsaw" with value of: 0.8205378651618958
+the hypernyms of the closest word are: ['power_saw', 'saw', 'sawing_machine']
+
+Words contained in cluster 178
+['fantasy', 'dream', 'love', 'theme', 'romantic', 'romance', 'lovers', 'magical', 'adventure', 'princess', 'magic', 'triangle', 'fairy', 'fashioned', 'tales', 'cinderella']
+Closest word in cluster 178
+ "fairy" with value of: 0.8318704962730408
+the hypernyms of the closest word are: ['supernatural_being', 'spiritual_being', 'gay_man', 'shirtlifter']
+
+Words contained in cluster 179
+['gives', 'offers', 'brings', 'reminds', 'delivers', 'holds', 'carries', 'creating', 'puts', 'brought', 'fits', 'draws', 'works', 'creates', 'uses', 'provide', 'created', 'provides', 'presents', 'stands', 'captures', 'keeping', 'allows', 'adds', 'bringing', 'provided', 'providing', 'capturing']
+Closest word in cluster 179
+ "provides" with value of: 0.8481786251068115
+the hypernyms of the closest word are: ['yield', 'prepare', 'wage', 'condition', 'give', 'afford', 'specify', 'engage', 'gear_up', 'fix', 'support', 'set', 'qualify', 'ready', 'set_up', 'stipulate']
+
+Words contained in cluster 180
+['theater', 'bought', 'box', 'tape', 'blockbuster', 'video', 'trailer', 'store', 'glad', 'library', 'rented', 'theatre', 'cover', 'preview', 'shelf', 'rental', 'dvds']
+Closest word in cluster 180
+ "library" with value of: 0.8373030424118042
+the hypernyms of the closest word are: ['depository', 'assemblage', 'repository', 'collection', 'depositary', 'accumulation', 'room', 'aggregation', 'building', 'deposit', 'edifice']
+
+Words contained in cluster 181
+['saw', 'watched']
+Closest word in cluster 181
+ "watched" with value of: 0.9431368112564087
+the hypernyms of the closest word are: ['check_over', 'check_into', 'check_up_on', 'watch', 'suss_out', 'check_out', 'check', 'look_into', 'go_over']
+
+Words contained in cluster 182
+['entire', 'every', 'whole']
+Closest word in cluster 182
+ "entire" with value of: 0.8420701026916504
+the hypernyms of the closest word are: ['male_horse']
+
+Words contained in cluster 183
+['disappointed', 'impressed', 'expected', 'liked', 'loved', 'enjoyed', 'enjoy', 'expectations', 'surprised', 'expecting', 'admit']
+Closest word in cluster 183
+ "enjoyed" with value of: 0.8304672837257385
+the hypernyms of the closest word are: ['like', 'use', 'experience', 'utilise', 'see', 'go_through', 'apply', 'utilize', 'employ']
+
+Words contained in cluster 184
+['well', 'perfectly', 'wonderfully', 'brilliantly', 'beautifully', 'nicely', 'superbly']
+Closest word in cluster 184
+ "brilliantly" with value of: 0.9338214993476868
+the hypernyms of the closest word are: []
+
+Words contained in cluster 185
+['masters', 'spirited', 'descent', 'another', 'scottish', 'transition', 'welcome', 'feast', 'glory', 'rendition', 'underworld', 'damned', 'menace', 'double', 'cuba', 'shining', 'miracle', 'equivalent', 'temple', 'p', 'doc', 'notorious', 'roots', 'latter', 'doom', 'revolutionary', 'savage', 'grey', 'gate', 'kingdom', 'spin', 'madness', 'roman', 'rocky', 'briefly', 'gift', 'prime', 'bride', 'edgar', 'prize', 'tomorrow', 'elvis', 'spell', 'offering', 'wicked', 'greek', 'sunshine', 'runner', 'fifth', 'marks', 'alternate', 'heaven', 'showdown', 'samurai', 'boxing', 'voyage', 'darkness', 'imitation', 'mysteries', 'mighty', 'eager', 'devils', 'garden', 'infamous', 'grand', 'wouldbe', 'instantly', 'st', 'warriors', 'fatal', 'instant', 'shadow', 'carmen', 'boot', 'peak', 'relative', 'rome', 'companion', 'ideal', 'hitch', 'interestingly', 'celebrity', 'mouse', 'heist', 'aforementioned', 'dutch', 'ernest', 'pearl', 'wells', 'mars', 'bears', 'resemblance', 'wes', 'solo', 'phantom', 'emperor', 'gray', 'cowboy', 'forbidden', 'cannon', 'resembles', 'priceless', 'venice', 'pays', 'assault', 'chess', 'matches', 'childs', 'saga', 'bell', 'apocalypse', 'bourne', 'titanic']
+Closest word in cluster 185
+ "kingdom" with value of: 0.7805125117301941
+the hypernyms of the closest word are: ['demesne', 'land', 'taxonomic_group', 'taxon', 'grouping', 'sphere', 'area', 'group', 'orbit', 'taxonomic_category', 'state', 'country', 'domain', 'monarchy', 'field', 'arena']
+
+Words contained in cluster 186
+['big', 'huge', 'major', 'biggest']
+Closest word in cluster 186
+ "big" with value of: 0.8707928657531738
+the hypernyms of the closest word are: []
+
+Words contained in cluster 187
+['actors', 'cast', 'performances']
+Closest word in cluster 187
+ "cast" with value of: 0.8637016415596008
+the hypernyms of the closest word are: ['withdraw', 'shape', 'appearance', 'direct', 'locomote', 'gathering', 'travel', 'forge', 'container', 'egest', 'go', 'work', 'eliminate', 'excrete', 'mold', 'sportfishing', 'delegate', 'assemblage', 'form', 'patch', 'fishing', 'remove', 'take', 'throw', 'give_voice', 'solid', 'designate', 'articulate', 'send', 'mould', 'take_away', 'word', 'move', 'visual_aspect', 'assign', 'copy', 'give', 'pass', 'bandage', 'formulate', 'depute', 'phrase']
+
+Words contained in cluster 188
+['experimental', 'painted', 'side', 'image', 'angle', 'areas', 'places', 'whilst', 'vast', 'wrapped', 'turning', 'behind', 'silver', 'opens', 'silence', 'small', 'tiny', 'taking', 'ie', 'extended', 'large', 'pushed', 'painting', 'wide', 'circle', 'faces', 'empty', 'distance', 'showing', 'chain', 'border', 'covered', 'bound', 'string', 'precious', 'reaches', 'via', 'objects', 'directly', 'shape', 'beneath', 'drawing', 'closed', 'square', 'ups', 'reaching', 'changing', 'visible', 'split', 'careful', 'remaining', 'broken', 'massive', 'buried', 'construction', 'signs', 'spread', 'size', 'hidden', 'center', 'causing', 'presumably', 'models', 'glimpse', 'covers', 'placed', 'crossing', 'enormous', 'passes', 'surrounded', 'womens', 'allowing', 'traffic', 'built', 'tricks', 'chaos', 'tracking', 'photos', 'rising', 'houses', 'simultaneously', 'thru', 'territory']
+Closest word in cluster 188
+ "surrounded" with value of: 0.7940616011619568
+the hypernyms of the closest word are: ['meet', 'adjoin', 'touch', 'cover', 'attack', 'assail', 'protect', 'contact']
+
+Words contained in cluster 189
+['pretty']
+Closest word in cluster 189
+ "pretty" with value of: 1.0
+the hypernyms of the closest word are: []
+
+Words contained in cluster 190
+['decides', 'trying', 'wants', 'tries']
+Closest word in cluster 190
+ "tries" with value of: 0.8947595357894897
+the hypernyms of the closest word are: ['hurt', 'wear', 'anguish', 'afflict', 'ingest', 'consume', 'have', 'activity', 'examine', 'put_on', 'melt_down', 'pain', 'run', 'take_in', 'probe', 'melt', 'take', 'get_into', 'don', "make_up_one's_mind", 'assume', 'move', 'judge', 'evaluate', 'pass_judgment', 'decide', 'determine', 'act']
+
+Words contained in cluster 191
+['make', 'makes', 'made', 'making']
+Closest word in cluster 191
+ "make" with value of: 0.8745460510253906
+the hypernyms of the closest word are: ['create_from_raw_material', 'insure', 'direct', 'number', 'get_together', 'egest', 'reach', 'become', 'secure', 'play', 'create', 'form', 'cause', 'head', 'assure', 'attain', 'tidy_up', 'develop', 'come', 'estimate', 'clean_up', 'appoint', 'alter', 'go_through', 'charge', 'perform', 'grow', 'see', 'neaten', 'excrete', 'score', 'create_mentally', 'rack_up', 'do', 'view', 'consider', 'achieve', 'assemble', 'appear', 'regard', 'make', 'change', 'judge', 'represent', 'gain', 'reckon', 'hit', 'arrive_at', 'act', 'add_up', 'amount', 'approximate', 'modify', 'create_by_mental_act', 'persuade', 'get', 'go_across', 'sort', 'gather', 'reordering', 'pull', 'tidy', 'make_up', 'commit', 'straighten_out', 'eliminate', 'accomplish', 'be', 'comprise', 'execute', 'square_away', 'tally', 'seem', 'constitute', 'kind', 'create_from_raw_stuff', 'look', 'perpetrate', 'straighten', 'guess', 'behave', 'acquire', 'variety', 'pass', 'ensure', 'gauge', 'total', 'guarantee']
+
+Words contained in cluster 192
+['life']
+Closest word in cluster 192
+ "life" with value of: 0.9999998807907104
+the hypernyms of the closest word are: ['animation', 'time_period', 'experience', 'history', 'soul', 'motivation', 'need', 'animate_thing', 'story', 'motive', 'existence', 'mortal', 'brio', 'person', 'invigoration', 'organic_phenomenon', 'prison_term', 'spiritedness', 'time', 'sentence', 'period_of_time', 'living_thing', 'period', 'beingness', 'someone', 'individual', 'account', 'being', 'vivification', 'somebody', 'chronicle']
+
+Words contained in cluster 193
+['fighting', 'fight', 'battle', 'fights', 'shooting', 'gun', 'guns', 'chases', 'chase']
+Closest word in cluster 193
+ "fights" with value of: 0.8554803729057312
+the hypernyms of the closest word are: ['fight', 'battle', 'tilt', 'action', 'struggle', 'military_action', 'essay', 'fisticuffs', 'seek', 'argument', 'attempt', 'push', 'try', 'advertise', 'contend', 'pugilism', 'disceptation', 'advertize', 'disputation', 'contention', 'conflict', 'aggressiveness', 'promote', 'arguing', 'controversy', 'boxing', 'contestation', 'assay']
+
+Words contained in cluster 194
+['young', 'noble', 'rich', 'relationship', 'naive', 'physically', 'desires', 'troubled', 'torn', 'jewish', 'vulnerable', 'engaged', 'protagonist', 'middleaged', 'loving', 'heroine', 'affection', 'whose', 'behavior', 'unhappy', 'innocent', 'bitter', 'teenager', 'mentally', 'patient', 'aged', 'divorce', 'obsession', 'struggling', 'caring', 'passionate', 'frustrated', 'attracted', 'self', 'opposite', 'shy', 'lonely', 'sexually', 'mature', 'friendly', 'homosexual', 'attraction', 'becoming', 'disturbed', 'selfish', 'attitude', 'alcoholic', 'increasingly', 'convincingly', 'cynical', 'loyal', 'eccentric', 'grows', 'sensitive', 'object', 'abused', 'obsessed', 'manipulative', 'transformation', 'grandmother', 'challenged']
+Closest word in cluster 194
+ "troubled" with value of: 0.8885143995285034
+the hypernyms of the closest word are: ['hurt', 'impress', 'move', 'strike', 'touch', 'bear_upon', 'strain', 'impact', 'touch_on', 'affect', 'strive', 'reach', 'upset', 'disturb', 'trouble', 'bear_on']
+
+Words contained in cluster 195
+['previous', 'last', 'later', 'ago', 'earlier', 'recent']
+Closest word in cluster 195
+ "earlier" with value of: 0.8843880295753479
+the hypernyms of the closest word are: []
+
+Words contained in cluster 196
+['felt', 'feeling', 'feel']
+Closest word in cluster 196
+ "feel" with value of: 0.8976054191589355
+the hypernyms of the closest word are: ['stimulation', 'experience', 'go_through', 'conceive', 'conclude', 'perceive', 'think', 'knowingness', 'seek', 'look_for', 'atmosphere', 'touch', 'arousal', 'be', 'ambience', 'see', 'believe', 'reason', 'seem', 'cognisance', 'consider', 'look', 'awareness', 'reason_out', 'foreplay', 'appear', 'search', 'find', 'cognizance', 'regain', 'ambiance', 'comprehend', 'property', 'consciousness']
+
+Words contained in cluster 197
+['theyd', 'chose', 'boll', 'apparently', 'project', 'theyve', 'surely', 'allowed', 'whoever', 'studios', 'commercial', 'cash', 'obviously', 'product', 'bigger', 'producers', 'goodness', 'scripts', 'editor', 'proud', 'stinker', 'creators', 'mgm', 'studio', 'direct', 'choice', 'hack', 'producing', 'makers', 'ought', 'maker', 'hire', 'careers', 'hed', 'alas', 'turkey', 'marketing', 'wouldve', 'reputation', 'projects', 'travesty', 'flop', 'signed', 'uwe', 'tarantino', 'ashamed', 'earned']
+Closest word in cluster 197
+ "producers" with value of: 0.8168146014213562
+the hypernyms of the closest word are: ['shaper', 'maker', 'cause', 'creator']
+
+Words contained in cluster 198
+['first', 'second', 'third']
+Closest word in cluster 198
+ "second" with value of: 0.9239756464958191
+the hypernyms of the closest word are: ['transfer', 'tender', 'point_in_time', 'point', 'gear', 'time_unit', 'back_up', 'ware', 'angular_unit', 'product', 'merchandise', 'time', 'attender', 'support', 'reassign', 'gear_mechanism', 'position', 'attendant', 'unit_of_time', 'rank', 'agreement']
+
+Words contained in cluster 199
+['glass', 'kicking', 'onto', 'literally', 'hands', 'hitting', 'shower', 'front', 'bullets', 'standing', 'head', 'hand', 'blowing', 'arms', 'mouth', 'corpse', 'blows', 'neck', 'eye', 'throwing', 'stuck', 'pulling', 'foot', 'jumping', 'shouting', 'ripped', 'chair', 'repeatedly', 'feet', 'plastic', 'chest', 'electric', 'heads', 'arm', 'screaming', 'staring', 'bottle', 'holding', 'whenever', 'throat', 'drop', 'shoots', 'yelling', 'leg', 'legs', 'beaten', 'bag', 'finger', 'teeth', 'eaten', 'sight', 'smoke', 'someones', 'burned', 'bullet', 'nose', 'knife', 'shoes', 'shirt', 'wound', 'fingers', 'meat']
+Closest word in cluster 199
+ "knife" with value of: 0.9029731750488281
+the hypernyms of the closest word are: ['injure', 'projection', 'arm', 'wound', 'edge_tool', 'weapon', 'weapon_system']
